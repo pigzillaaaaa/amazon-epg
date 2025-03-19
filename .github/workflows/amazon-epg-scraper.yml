@@ -26,7 +26,7 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install curl_cffi pytz
+        run: pip install curl_cffi pytz beautifulsoup4
 
       - name: Download external Python script
         run: |
