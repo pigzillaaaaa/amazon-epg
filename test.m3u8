@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/amazon-epg/refs/heads/main/amazon-epg.xml"
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="Amazon.Entertainment.KoreanBlockbusters" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/korean_blockbusters._SL170_FMpng_.png",AMAZON Korean Blockbusters
+https://example.com/abc.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="Amazon.Sports.HBOBoxing" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/HBO_Boxing_%282013%29.svg",AMAZON HBO Boxing
+https://example.com/efg.m3u8
