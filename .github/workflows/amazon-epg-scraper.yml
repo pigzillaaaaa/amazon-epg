@@ -5,7 +5,7 @@ on:
   workflow_dispatch: # Allows manual trigger from the Actions tab
 
 env:
-  m_filename: amazon-epg.xml
+  m_filename: amazon_channels_epg.xml
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
 jobs:
