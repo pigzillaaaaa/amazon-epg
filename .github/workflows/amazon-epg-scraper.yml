@@ -25,14 +25,14 @@ jobs:
       - name: Install dependencies
         run: pip install curl_cffi pytz beautifulsoup4 httpx
 
-      - name: Download external Python script
+      - name: EPG Scraper for AMAZON US
         run: |
           curl -o amazon-epg-scraper.py "${{ secrets.AMAZON_EPG }}"
 
       - name: Run the script
         run: python amazon-epg-scraper.py
 
-      - name: Download external Python script
+      - name: EPG Scraper for AMAZON CA
         run: |
           curl -o amazon-ca-epg-scraper.py "${{ secrets.AMAZON_CA_EPG }}"
 
