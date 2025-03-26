@@ -10,8 +10,6 @@ env:
 jobs:
   fetch_epg:
     runs-on: ubuntu-latest
-    env:
-      TZ: Asia/Manila
 
     steps:
       - name: Checkout repository
@@ -34,11 +32,18 @@ jobs:
       - name: Run the script
         run: python amazon-epg-scraper.py
 
+      - name: Download external Python script
+        run: |
+          curl -o amazon-ca-epg-scraper.py "${{ secrets.AMAZON_CA_EPG }}"
+
+      - name: Run the script
+        run: python amazon-ca-epg-scraper.py
+
       - name: Commit and push the files
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
-          git add amazon-channel-map.json amazon-epg.xml
+          git add amazon-channel-map.json amazon-epg.xml amazon-ca-channel-map.json amazon-ca-epg.xml
           git diff --staged --quiet || git commit -m "Update epg"
           git push --force
         
