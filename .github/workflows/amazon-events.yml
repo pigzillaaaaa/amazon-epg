@@ -8,7 +8,7 @@ env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
   
 jobs:
-  fetch_epg:
+  fetch_events:
     runs-on: ubuntu-latest
 
     steps:
