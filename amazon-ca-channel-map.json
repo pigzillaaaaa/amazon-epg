@@ -189,19 +189,19 @@
   ],
   "Amazon.CA.RDS": [
     "RDS",
-    "amzn1.dv.gti.9bd5a432-ecac-492f-b760-44154fc0b1f9"
+    "amzn1.dv.gti.217eec0c-9883-4f5d-adf4-4c6488811752"
   ],
   "Amazon.CA.RDSInfoSports": [
     "RDS Info Sports",
-    "amzn1.dv.gti.5115a2c9-3614-4ad1-ba52-c6b5c4069233"
+    "amzn1.dv.gti.6ab25160-7b12-4bad-b5c5-f5c5134f345c"
   ],
   "Amazon.CA.RDS2": [
     "RDS 2",
-    "amzn1.dv.gti.31baaf12-0c9a-4064-af93-9e151ff67d7e"
+    "amzn1.dv.gti.115983d8-b11e-4597-b42e-aeb1aedefb2e"
   ],
   "Amazon.CA.SportsnetOntario": [
     "Sportsnet Ontario",
-    "amzn1.dv.gti.43537dd3-5679-4e01-a53c-c42224481fc2"
+    "amzn1.dv.gti.e436c9e1-7ca9-42e8-b6d8-0880ead19c86"
   ],
   "Amazon.CA.SportsnetEast": [
     "Sportsnet East",
@@ -253,7 +253,7 @@
   ],
   "Amazon.CA.TSN2": [
     "TSN 2",
-    "amzn1.dv.gti.c9e60f6b-0eae-4af2-b709-3de907472de4"
+    "amzn1.dv.gti.ca6f7ded-1f41-45a3-942c-3a1ee0d895fc"
   ],
   "Amazon.CA.TSN3": [
     "TSN 3",
@@ -261,11 +261,91 @@
   ],
   "Amazon.CA.TSN4": [
     "TSN 4",
-    "amzn1.dv.gti.1ca4d5c0-7cd1-458e-bcbc-5bdf6775f59b"
+    "amzn1.dv.gti.3a6ab37b-a317-4585-8345-655a9fef3a8d"
   ],
   "Amazon.CA.TSN5": [
     "TSN 5",
-    "amzn1.dv.gti.08f0e598-0da3-4e40-935c-ecf6dbc8b89e"
+    "amzn1.dv.gti.d382083b-f7f8-49e0-b1ba-f9ca0b853493"
+  ],
+  "Amazon.CA.AdultSwim": [
+    "Adult Swim",
+    "amzn1.dv.gti.d4b4f083-dcc7-19e6-dd4b-ae1e1736ff31"
+  ],
+  "Amazon.CA.HISTORY": [
+    "HISTORY",
+    "amzn1.dv.gti.88b4f084-314a-df96-d9be-2cc4b660cfa6"
+  ],
+  "Amazon.CA.FlavourNetwork": [
+    "Flavour Network",
+    "amzn1.dv.gti.1eb4f084-5ce4-03c8-3235-90ff2bbdab5c"
+  ],
+  "Amazon.CA.HomeNetwork": [
+    "Home Network",
+    "amzn1.dv.gti.d8b4f084-5ada-7fab-5a7b-e390a5155068"
+  ],
+  "Amazon.CA.GlobalBC": [
+    "Global BC",
+    "amzn1.dv.gti.5eb50197-4315-a48a-5001-da72b8436130"
+  ],
+  "Amazon.CA.WNetwork": [
+    "W Network",
+    "amzn1.dv.gti.b6b4f084-0e67-cb2c-9152-643f2c8f7bbe"
+  ],
+  "Amazon.CA.SHOWCASE": [
+    "SHOWCASE",
+    "amzn1.dv.gti.aeb4f084-9dbd-2b76-9885-c61ac326dbfa"
+  ],
+  "Amazon.CA.GlobalEdmonton": [
+    "Global Edmonton",
+    "amzn1.dv.gti.e4b4f084-ad7f-da71-afc6-8ab5c6e6ecd7"
+  ],
+  "Amazon.CA.GlobalToronto": [
+    "Global Toronto",
+    "amzn1.dv.gti.b4b4f087-fbe1-3501-c212-eb3b3a5c6058"
+  ],
+  "Amazon.CA.Slice": [
+    "Slice",
+    "amzn1.dv.gti.5eb4f084-c8ed-0169-274f-502a56d11aee"
+  ],
+  "Amazon.CA.NationalGeographic": [
+    "National Geographic",
+    "amzn1.dv.gti.4abbc442-f9eb-396e-3319-e62abdf6119d"
+  ],
+  "Amazon.CA.GlobalMaritimes": [
+    "Global Maritimes",
+    "amzn1.dv.gti.cab4f088-06e0-00be-4e0c-69773ba348d3"
+  ],
+  "Amazon.CA.GlobalCalgary": [
+    "Global Calgary",
+    "amzn1.dv.gti.12b4f085-fc20-8d4d-1db0-985ab7739ca3"
+  ],
+  "Amazon.CA.Treehouse": [
+    "Treehouse",
+    "amzn1.dv.gti.14b4f084-a82c-b54e-6640-55ae452c51d1"
+  ],
+  "Amazon.CA.LifetimeHDCanada": [
+    "Lifetime HD (Canada)",
+    "amzn1.dv.gti.ae608184-646f-493c-b2e4-740fceeab54e"
+  ],
+  "Amazon.CA.DisneyJunior": [
+    "Disney Junior",
+    "amzn1.dv.gti.7eba3d06-dd29-408f-8426-54a94eb7f84f"
+  ],
+  "Amazon.CA.YTV": [
+    "YTV",
+    "amzn1.dv.gti.eab4f084-630a-688d-5091-25493ab6f605"
+  ],
+  "Amazon.CA.CartoonNetwork": [
+    "Cartoon Network",
+    "amzn1.dv.gti.a8b4f084-65ff-f02b-5285-3b37365fc1d2"
+  ],
+  "Amazon.CA.DisneyChannel": [
+    "Disney Channel",
+    "amzn1.dv.gti.bfb00fb3-4163-49a5-acdf-79b01652d068"
+  ],
+  "Amazon.CA.DisneyXD": [
+    "Disney XD",
+    "amzn1.dv.gti.f9cf589b-8689-41b3-912d-deee997d9329"
   ],
   "Amazon.CA.FamilyChannelHD": [
     "Family Channel HD",
