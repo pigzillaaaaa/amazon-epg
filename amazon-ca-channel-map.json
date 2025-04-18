@@ -179,6 +179,18 @@
     "CBS News",
     "amzn1.dv.gti.a8f92471-c2dd-45cd-98d7-6b8dbf052e5c"
   ],
+  "Amazon.CA.RDS": [
+    "RDS",
+    "amzn1.dv.gti.217eec0c-9883-4f5d-adf4-4c6488811752"
+  ],
+  "Amazon.CA.RDSInfoSports": [
+    "RDS Info Sports",
+    "amzn1.dv.gti.6ab25160-7b12-4bad-b5c5-f5c5134f345c"
+  ],
+  "Amazon.CA.RDS2": [
+    "RDS 2",
+    "amzn1.dv.gti.115983d8-b11e-4597-b42e-aeb1aedefb2e"
+  ],
   "Amazon.CA.SportsnetOntario": [
     "Sportsnet Ontario",
     "amzn1.dv.gti.e436c9e1-7ca9-42e8-b6d8-0880ead19c86"
