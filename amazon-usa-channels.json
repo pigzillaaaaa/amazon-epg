@@ -1,0 +1,3459 @@
+{
+    "channels": [
+        {
+            "channel_name": "CBS Sports HQ",
+            "asin": "amzn1.dv.gti.28ba2621-664b-b1f1-3cc4-cf82ec88f652",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/cbs_sports._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MPT/Maryland Public Television (PBS WMPB)",
+            "asin": "amzn1.dv.gti.f4c407ef-7634-4bd4-b2b8-48d08abde98b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WMPB_Logo_Horizontal_White-One-Color._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "WETA (PBS WETA)",
+            "asin": "amzn1.dv.gti.4f262a60-0e9f-4ec6-ba73-8c0775f3f398",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WETAMetro_Logo_Horizontal_White-One-Color._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "WHUT - Howard University Television (PBS WHUT)",
+            "asin": "amzn1.dv.gti.51b135d0-e0cf-4b32-84c3-8bea6da72717",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WHUT_Logo_Horizontal_White-One-Color._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Locked Up Abroad",
+            "asin": "amzn1.dv.gti.4a1d045e-3414-4ac1-8056-45eba0a3fa92",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/LockedUpAbroad_white_logo_3840x2160_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Storage Wars",
+            "asin": "amzn1.dv.gti.0ca09292-1484-4ac7-b8f1-1e4541731fbb",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Storage_Wars_by_AE_logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Classic Car Auctions",
+            "asin": "amzn1.dv.gti.a116d1ea-2a89-4916-a78c-7725726ce3b9",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Classic_Car_Auctions_By_HISTORY_Channel_Logo_Horizontal_White._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Dr. Phil Primetime on Merit Street",
+            "asin": "amzn1.dv.gti.7ec21b09-4a09-4e23-a93a-ba79d1863e69",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Dr_Phil_primetime_on_merittv._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FIFA+",
+            "asin": "amzn1.dv.gti.5bac452c-6efc-4a89-921f-814f7d610153",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fifa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Dateline 24/7",
+            "asin": "amzn1.dv.gti.5ba4a3bf-e195-46fd-aaa7-651720994ac9",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/dateline._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BET x Tyler Perry Comedy",
+            "asin": "amzn1.dv.gti.473169e8-5ad4-442f-b18f-e82fb0a44e9b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/tyler_perry_comedy._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ION",
+            "asin": "amzn1.dv.gti.ed1163d3-6e00-499c-89e0-978a2afe60b4",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/ION__1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Judy Justice",
+            "asin": "amzn1.dv.gti.dddade30-ffa9-47be-ba42-56f31a9d21d4",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Freevee_Judy_Justice_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Incredible Dr. Pol",
+            "asin": "amzn1.dv.gti.65fc5892-0942-4545-91a9-1c96ac73ffd4",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TheIncredibleDr.Pol_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Paternity Court",
+            "asin": "amzn1.dv.gti.316e31d9-9f4f-43a4-9c5d-fb0992f35266",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/paternity_court._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "I  (Almost) Got Away With It",
+            "asin": "amzn1.dv.gti.33357142-25e1-45f8-ba38-01e8a8057ee6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_IAlmostGotAwayWithIt_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "20/20",
+            "asin": "amzn1.dv.gti.5ad1a1e6-c881-421d-abc1-b91f0ec7696e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/2020_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Murder, She Wrote",
+            "asin": "amzn1.dv.gti.0fba18fd-1829-4eab-862c-be8cec332d3d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/murder_she_wrote_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Family Feud",
+            "asin": "amzn1.dv.gti.a79a7d84-1390-4331-88be-33622326de60",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/family_feud_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "According to Jim",
+            "asin": "amzn1.dv.gti.0eed430f-1b67-46ac-8c3b-f2262cd9f044",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AccordingToJim_01_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "DAZN Ringside",
+            "asin": "amzn1.dv.gti.3c609688-e72f-42ec-8943-1e226371d0ec",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dazn_ringside._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "AMC",
+            "asin": "amzn1.dv.gti.d6b9d2a9-982b-d852-5baa-19f74aea0a98",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/c4526445da1e72faca3e5b485c490386d3d6857c9a8b440bd871afbac79eac6f._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "IFC",
+            "asin": "amzn1.dv.gti.70b9d2ab-4255-2743-3a94-e8c4909a1319",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/65bbe4aa47cc4ecd7f99ee011ffec3a7365b47230177c9245903dc5593e52674._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Sundance TV",
+            "asin": "amzn1.dv.gti.98b9d2ab-f323-8a56-d8b4-60c2b2bea776",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/e011deb22c4bb5b3959f8e438e3703857c40d891965ff06cd5108cee888de3fc._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Walking Dead Channel",
+            "asin": "amzn1.dv.gti.a8bad16b-7da1-0ef6-face-1fcfa7bf0d30",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/The_walking_dead_station._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BBC America",
+            "asin": "amzn1.dv.gti.a8b9d2aa-8cd7-4c74-85e1-bffd3f384993",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/02fc1e9f87d890307bc233d06dca2c4c83d8741ed43d95ed1f781d10fe21b356._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "AMC +",
+            "asin": "amzn1.dv.gti.baba2927-2767-5256-8eca-fcfd2ccc7959",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/145fb397b95a82a730cb3887f421145121cb473b7a0845cf8b108551b381126e._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MoreMAX HD East",
+            "asin": "amzn1.dv.gti.a2ba51df-a269-3df2-f11f-c1f6b27e1f54",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/e6fc1034cd2bca0c407eb6f89257ff40fd433dadd62393cda9a5f3b597d3fa90._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ActionMAX HD East",
+            "asin": "amzn1.dv.gti.f4ba51de-f362-f0da-6b2a-ead84c0f2eda",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/903490ef7b5effa45b2fdba457ac3bea95d9fb2fbc1ef8b62fee61317125a270._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MovieMAX East",
+            "asin": "amzn1.dv.gti.f6ba51df-ed5d-87d5-cd04-85c0f9b6dd8d",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/04cbd55e14402ee38367817efa02dd8f0cf94a1937214415d7bc8df9f9e2cf22._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cinemax HD East",
+            "asin": "amzn1.dv.gti.7cba51d2-a283-7a60-849c-dfe0d877b447",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_EAST_WHITE_1920x1080_f._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cinemax West",
+            "asin": "amzn1.dv.gti.98ba51d2-f735-0704-9a49-74ec7a2516d7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CINEMAX_WEST_WHITE_1920x1080_f._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "5StarMAX East",
+            "asin": "amzn1.dv.gti.90ba51df-39ec-d369-0650-57e9bc128a39",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/185d71f2eac4aeacfb475655ef9625e382b26245d8e65ef994bc0efc520b8565._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ThrillerMAX East",
+            "asin": "amzn1.dv.gti.2aba51e0-5171-d81e-17b5-b7e227592a25",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/8f91f34011b770f0b333320eabd229f7dba5fa6275cd8db692057121144b1901._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "OuterMAX East",
+            "asin": "amzn1.dv.gti.40ba520b-d17a-0e1b-815b-7c1d7da397bc",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/dc690e5ba3fd497e686c4ebdf851b2b02503aca677988571453512d6d1870727._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MAX Latino East",
+            "asin": "amzn1.dv.gti.76ba51df-6aec-f8aa-7f4a-4a7071571ec7",
+            "logo": "https://m.media-amazon.com/images/S/pv-target-images/3eac7f4cadb602911b09689afdbd4f8461b533c173059e7af4befd39086abda8._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MGM+ MARQUEE",
+            "asin": "amzn1.dv.gti.46bb6fa7-cbcf-c9c4-b8e7-633673ed528d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MGMMARQUEE._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MGM+ HITS",
+            "asin": "amzn1.dv.gti.b4bb6f97-38fc-ed66-6660-c71e04e0a99b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MGMHD._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MGM+ DRIVE-IN",
+            "asin": "amzn1.dv.gti.50bb6f4b-bf7a-3390-c329-ff127af9b88d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MGMDriveIN._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MGM+",
+            "asin": "amzn1.dv.gti.f8bb6f4c-3669-0311-3748-61e0f9096921",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MGM._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FanDuel Sports Network Extra",
+            "asin": "amzn1.dv.gti.8202f726-56b5-4207-a9c9-d2c7176122ba",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fd_rsn_extra_lg_hr_rgb_wt_amzn._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FanDuel Sports Network Extra",
+            "asin": "amzn1.dv.gti.f2dd3ee5-00b1-431d-b85e-b233901410af",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fd_rsn_extra_lg_hr_rgb_wt_amzn._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CNN Max",
+            "asin": "amzn1.dv.gti.f2493536-0acb-4923-8d55-3f2445ee3492",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cnn_max._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HBO Signature",
+            "asin": "amzn1.dv.gti.0ebf7220-0c02-4f54-b8d8-50ff75b30527",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/hbo_signature._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HBO Zone",
+            "asin": "amzn1.dv.gti.052476f1-d608-435b-b6a2-47436a27548d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Zone_East._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HBO Comedy",
+            "asin": "amzn1.dv.gti.a6f21c48-b879-477a-8181-0877b21d443e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HBO",
+            "asin": "amzn1.dv.gti.7940b999-f12a-4e34-826d-29170d34cdb1",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_EAST_WHITE_1920x1080_f._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HBO 2",
+            "asin": "amzn1.dv.gti.43032232-15f5-4d50-8dea-32a321b4a95c",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO2._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HBO Family",
+            "asin": "amzn1.dv.gti.d5d374e5-a9c7-4278-9dfc-03bccedf2dee",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBOFamily._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HBO West",
+            "asin": "amzn1.dv.gti.c50ca5bd-5a8b-4687-a679-14710389c3b5",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_WEST_WHITE_1920x1080_f._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HBO Latino",
+            "asin": "amzn1.dv.gti.0bcf0a87-ebbc-4f0c-9e83-6b4f9bfda936",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_LAT._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MLB Network",
+            "asin": "amzn1.dv.gti.4df07d23-54fa-4bee-8d95-b96480800216",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MLB_Network_US_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBA TV HDTV",
+            "asin": "amzn1.dv.gti.eebae9c5-883f-c79f-abc6-092683038e6d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/NBA_TV_HDTV._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "SpongeBob SquarePants Universe",
+            "asin": "amzn1.dv.gti.9c0efa82-7702-487b-9cb1-1bd9a1232772",
+            "logo": "https://m.media-amazon.com/images/G/03/digital/video/merch/subs/benefit-id/a-f/esports1/logos/Spongebob_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PAW Patrol",
+            "asin": "amzn1.dv.gti.aa8b90a4-de9e-4b1c-b42d-d8d79a06b1ac",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/PPLUSPAW_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CSI",
+            "asin": "amzn1.dv.gti.3c6a963f-ec19-4154-ac7a-bb50981a333a",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/CSI_lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "RuPaul's Drag Race",
+            "asin": "amzn1.dv.gti.f0cb6533-112b-4a72-9e26-7333dfe4d8a5",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/RuPaul_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Animation Favorites",
+            "asin": "amzn1.dv.gti.867553c5-b72d-4c46-9cd7-97c5f6b88b6e",
+            "logo": "https://m.media-amazon.com/images/G/03/digital/video/merch/subs/benefit-id/a-f/esports1/logos/Animation_Favorites_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Survivor",
+            "asin": "amzn1.dv.gti.e3195f49-9fe4-40fb-ab90-3d8282592b75",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Survivor_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Reality TV: Shores",
+            "asin": "amzn1.dv.gti.55ea4887-9412-4cb5-a336-df66db23f836",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/PPLUSSHOR_1920x1080._CB1198675309_SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Challenge",
+            "asin": "amzn1.dv.gti.36f53de7-cab4-47b6-8e64-4d29519fd7e4",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/The_Challenge_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Star Trek",
+            "asin": "amzn1.dv.gti.8d9a97f8-c4df-40b0-990f-4abd7be078f3",
+            "logo": "https://m.media-amazon.com/images/G/03/digital/video/merch/subs/benefit-id/a-f/esports1/logos/Star_Trek_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Black Voices",
+            "asin": "amzn1.dv.gti.d0322d8c-f507-41fa-9e2e-02221b540860",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Black_Voices_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Movies",
+            "asin": "amzn1.dv.gti.8dc88c98-7f5a-4567-a1a9-b254d1abce84",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MOVIES_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "80s Sitcom",
+            "asin": "amzn1.dv.gti.50e8c2e0-65d8-433a-9d8d-985e911e51af",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/80s_Sitcom_Lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "90s Sitcom",
+            "asin": "amzn1.dv.gti.0ff8b99a-4975-49a8-ad0e-05af0baa72cd",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/90s_Sitcom_LT._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Kids & Family Fun",
+            "asin": "amzn1.dv.gti.048d2dbc-c9f8-449c-b9a6-66b97acc0f38",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/PPLUSKIDFV_1920x1080._CB1198675309_SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "24/7 Laughs",
+            "asin": "amzn1.dv.gti.c9ff0182-bb8d-4981-9aab-a6d1ff865c6b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/247_laughs._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Adult Animation",
+            "asin": "amzn1.dv.gti.8e6638f5-a79e-40df-aea0-b8cc96ca0fe8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/PPLUSAA_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "History & Undiscovered",
+            "asin": "amzn1.dv.gti.030ef578-86f0-4fc7-81ce-745650c374bc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/History__Undiscovered_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Crime & Justice",
+            "asin": "amzn1.dv.gti.e3ef232a-9c53-437c-b49a-efd4b9f18e43",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/crime_and_justice._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "TV Classics",
+            "asin": "amzn1.dv.gti.4d771e25-5695-4042-bce3-755d6004c976",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/PPLUSTVC_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Preschool Corner",
+            "asin": "amzn1.dv.gti.ebcf5bd7-3c87-4453-97a7-dd83cec949b3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/PPLUSPRECO_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Showtime",
+            "asin": "amzn1.dv.gti.b2ba51e3-43c9-f5b3-8afc-2af2a84fb026",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Showtime._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Showtime West",
+            "asin": "amzn1.dv.gti.4aba520c-dc9e-0d00-b782-b51d12895396",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Showtime_West._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "pixl",
+            "asin": "amzn1.dv.gti.94ba51e2-2550-f1bd-fd7b-68d59de663ce",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/pixl._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ScreenPix Westerns HD",
+            "asin": "amzn1.dv.gti.690a46db-8863-4b90-8aa4-1141b179cde4",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix_Westerns_HD._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ScreenPix Action",
+            "asin": "amzn1.dv.gti.f6b09d8b-a318-4286-a874-55a00917b571",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix_Action._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ScreenPix",
+            "asin": "amzn1.dv.gti.a9c110cb-98b4-448f-8263-7d63ec4faee5",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ScreenPix Voices",
+            "asin": "amzn1.dv.gti.9964b99d-36e2-4570-a208-cdb2bf76a768",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ScreenPix_Voices._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Starz in Black HD East",
+            "asin": "amzn1.dv.gti.a4ba520d-0d85-2022-b6b3-41a68390bd01",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_in_black._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Encore HD East",
+            "asin": "amzn1.dv.gti.e2ba51e4-94db-fd5d-c39e-7fb33e9be08f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_encore._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Starz HD East",
+            "asin": "amzn1.dv.gti.12ba51e5-f06e-82b1-436b-280382771b95",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_east._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Starz HD West",
+            "asin": "amzn1.dv.gti.16ba51e6-2880-351e-fbb8-3aef6c51682c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_west._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Starz Edge HD East",
+            "asin": "amzn1.dv.gti.54ba51e5-376c-0a7a-06ae-933946979b66",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_edge._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Encore Action HD East",
+            "asin": "amzn1.dv.gti.96ba51e4-5b7f-0e17-f5da-a6a475ae4523",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_encore_action._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Starz Comedy HD East",
+            "asin": "amzn1.dv.gti.20ba51e5-afc4-8d68-6e58-1320b7606821",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_comedy._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Starz Cinema HD East",
+            "asin": "amzn1.dv.gti.9cba51e4-ec3f-b0d1-89b4-503827ce2406",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_cinema._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Starz Kids & Family HD East",
+            "asin": "amzn1.dv.gti.ccba51e5-72a6-45cd-7068-ab39caf7d506",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/starz_kf._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Noticias Univision 24/7",
+            "asin": "amzn1.dv.gti.f7cd21a4-5bd9-4b4e-8fdf-2206a5882799",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/noticias_univision._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "La Rosa de Guadalupe",
+            "asin": "amzn1.dv.gti.b2e1563e-a373-4111-8c61-cc43ed09f9d3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/La_Rosa_de_Guadalupe_LT._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Vecinos",
+            "asin": "amzn1.dv.gti.d6c51f2a-0393-4f1a-b0d7-165c058032cd",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Vecinos_lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Teresa",
+            "asin": "amzn1.dv.gti.1b9ef99d-0625-42a1-94eb-8cd1949eea28",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Teresa_lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Lo que la vida me rob\u00f3",
+            "asin": "amzn1.dv.gti.ae73b14f-4981-409d-bb90-5b1c6d3f9cb9",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/LoQueLaVidaMeRobo_White._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "40 y 20",
+            "asin": "amzn1.dv.gti.4bd284f1-9b62-4ab9-8583-359c9bc7ef22",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/40_y_20_White._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Como Dice el Dicho",
+            "asin": "amzn1.dv.gti.a9f9d881-98da-4545-839d-e53a2bb9150c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/como_dice_el_dicho._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Nosotros los Guapos",
+            "asin": "amzn1.dv.gti.c4d0ba1c-14ef-4385-86dc-d2af6daa01b2",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Nosotros_los_Guapos_Lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Hasta Que el Dinero Nos Separe",
+            "asin": "amzn1.dv.gti.b570ee60-2b99-4d57-ab9d-3bc5cc803df8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Hasta_Que_Lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Sortilegio",
+            "asin": "amzn1.dv.gti.3c4f70bc-c41e-4c24-861d-507dd7bf3dbc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Sortilegio_lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "COPS en Espa\u00f1ol",
+            "asin": "amzn1.dv.gti.3e19d6bd-4370-45fb-806e-3d14c6570d52",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/COPS._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Amor Real",
+            "asin": "amzn1.dv.gti.e80ab2f5-e94a-4d4c-a8dd-d7e89e0b7a3d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/AmorReal_White._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "La fea m\u00e1s bella",
+            "asin": "amzn1.dv.gti.c3cabffb-d51d-4d50-9b97-e44d040e00e8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/LaFeaMasBella_White._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Rebelde",
+            "asin": "amzn1.dv.gti.029fdb16-2a56-4da4-91fb-249b9e3592ca",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/rebelde._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Mi Corazon es Tuyo",
+            "asin": "amzn1.dv.gti.ec62154a-6b43-4c1c-aca5-d33caca40e56",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Mi_Corazon_es_Tuyo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Lo mejor de Liga MX",
+            "asin": "amzn1.dv.gti.ad272150-29a5-4342-92ab-998e3a9f0809",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Lo_Mejor_de_la_LigaMX_Lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "La que no pod\u00eda amar",
+            "asin": "amzn1.dv.gti.c69d8574-fb42-49a8-b858-a808748c9a0f",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/LaQNoPodiaAmar_WHITE._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Amores Verdaderos",
+            "asin": "amzn1.dv.gti.784f66bd-5880-4cc5-9b4d-ee282a3ecbe7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Amores_Verdaderos_Lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Aqu\u00ed y Ahora",
+            "asin": "amzn1.dv.gti.1efcd9a2-727e-41c3-b2a4-ee2c355d7895",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Aqui_y_Ahora_White._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Triunfo del Amor",
+            "asin": "amzn1.dv.gti.b5953e57-a859-4ec8-9b3e-d95129880253",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Triunfo_del_Amor_lt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Pequenos Gigantes",
+            "asin": "amzn1.dv.gti.73163b22-26db-4ca7-9998-57326ac1c113",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/pequenos_gigantes._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Tu Discovery",
+            "asin": "amzn1.dv.gti.9ed13c6e-9f5b-4e96-a411-d367deff4d12",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Tu_Discovery_Logo_White_1920._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC 4 New York News",
+            "asin": "amzn1.dv.gti.83ca0c2d-cdaf-4be9-ae05-980fe90bdbc7",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_new_york_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News New York",
+            "asin": "amzn1.dv.gti.affc6488-7c55-4cf1-bc9d-d12b3a598f6c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_ny._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC7 New York",
+            "asin": "amzn1.dv.gti.9ffa5ed7-debf-495b-9df6-3747dd11c276",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abcotv_wabc_new_york._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 5 New York",
+            "asin": "amzn1.dv.gti.e1e55c10-f0e9-49f6-9a42-94c87f42b796",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/FOX_NY_UD._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC 4 Los Angeles News",
+            "asin": "amzn1.dv.gti.71613876-19d8-4601-9c4f-e32e6e33fea4",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_los_angeles_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Los Angeles",
+            "asin": "amzn1.dv.gti.bbc47c6d-a02a-47d3-b0ed-9975979903fd",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_los_angeles._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC7 Los Angeles",
+            "asin": "amzn1.dv.gti.53f098f4-3e24-41a9-b0e0-da693d761f6f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abcotv_kabc_los_angeles._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 11 Los Angeles",
+            "asin": "amzn1.dv.gti.e90e9e92-71ac-4285-bc37-34ee3f067e6c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/FOX_LA._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Biggest Loser",
+            "asin": "amzn1.dv.gti.e29c3ade-8185-4e0e-818c-cacd58daa1dd",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Freevee_TheBiggestLoser_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Don't Tell The Bride",
+            "asin": "amzn1.dv.gti.543eb4de-908d-4f94-8ffb-3498afbe36cb",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s121714_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "UnXplained Zone",
+            "asin": "amzn1.dv.gti.5ad7c4ec-5288-43fa-b5ef-19e70df36950",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/unxplained_zone._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Stargate",
+            "asin": "amzn1.dv.gti.5d12ae68-4392-46a8-84c3-95ea9a1067d9",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/stargate_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Buffy the Vampire Slayer",
+            "asin": "amzn1.dv.gti.d234dfd7-36f4-4f8c-9ba1-0ea7639a1834",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BuffyTheVampireSlayer_01_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Dead Files",
+            "asin": "amzn1.dv.gti.658ecd3b-23de-4e1c-87f9-dd8c7c86276e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_TheDeadFiles_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Ghost Hunters",
+            "asin": "amzn1.dv.gti.6640e7c0-e1f3-44b4-9699-76c2c01422aa",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ghost_hunters_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Monsters Are Real",
+            "asin": "amzn1.dv.gti.a1fc65dc-2383-4217-abf3-0531d0a3a357",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_MonstersAreReal_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Teen Wolf",
+            "asin": "amzn1.dv.gti.49b64ef8-cdf3-4d6e-b540-b3ce849b3b2a",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Teen_Wolf._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Outer Limits",
+            "asin": "amzn1.dv.gti.dd8da9eb-d282-4967-8063-9dd84029eac7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/the_outer_limits._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Trailer Park Boys",
+            "asin": "amzn1.dv.gti.56348cc2-295c-4351-83f1-acdc57771a8c",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/TPB_1920x1080_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Funny Favorites",
+            "asin": "amzn1.dv.gti.4ad24110-817a-4928-8c7d-233d8b1a69d0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_FunnyFavorites_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FailArmy Stream",
+            "asin": "amzn1.dv.gti.d06df1bf-b08e-464e-a675-400d5e9f2386",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FA_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BBC Comedy",
+            "asin": "amzn1.dv.gti.199be18d-14b9-4feb-9e6b-107621bf81ec",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/bbc_comedy._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Always Funny",
+            "asin": "amzn1.dv.gti.318a2fce-94ae-4c3f-8a6d-7c3b8a12b256",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/always_funny_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Stand-Up Channel",
+            "asin": "amzn1.dv.gti.0227ac9b-6553-45d2-a231-9716f8db18e1",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/stand_up_channel._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Comedy Dynamics",
+            "asin": "amzn1.dv.gti.88b7d55a-e04a-60a8-6257-1ba0b7de4a52",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/ComedyDynamics_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Kids in the Hall",
+            "asin": "amzn1.dv.gti.3929273d-bbd8-40ea-ad0c-3b08d1c8957b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_KidsInTheHall_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Slightly Off IFC",
+            "asin": "amzn1.dv.gti.b07d36a4-6b8c-43dd-bee0-e4fd13574873",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AMCN_SlightlyOffIFC_Freevee_logo-white_1920x1080_v011._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Dr. Phil",
+            "asin": "amzn1.dv.gti.8ca071bc-d0a3-4836-93ee-8797199ff4ed",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dr_phil._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Sky News",
+            "asin": "amzn1.dv.gti.5597f30c-78ef-4305-ad78-947f1a532cb5",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/sky_news_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Business Insider",
+            "asin": "amzn1.dv.gti.632090cd-e357-4c1d-a49d-e0767a2883d2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/businessinsider._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBC News",
+            "asin": "amzn1.dv.gti.6721514e-a69f-4ddc-8843-ccb7536bd4ac",
+            "logo": "https://m.media-amazon.com/images/X/lsmP/M/1lsmPhEDvDwPGUY._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Scripps News",
+            "asin": "amzn1.dv.gti.b4df9caa-1478-47d0-b37e-81bae09f4a37",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/ScrippsNews_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Yahoo Finance Live",
+            "asin": "amzn1.dv.gti.8dc09de8-8a60-48d1-beb9-1148b4a08daf",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/yahoo_finance._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Hill TV",
+            "asin": "amzn1.dv.gti.52f3dec9-8fe6-4553-9a25-3ab183f8e61c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/the_hill_tv._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cheddar News",
+            "asin": "amzn1.dv.gti.fb89ea26-65df-400d-97dd-126ff33d4493",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/CheddarNews_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Localish",
+            "asin": "amzn1.dv.gti.27a1afb5-9a3e-4893-8788-58249db58ee7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Localish._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Spooks (MI-5)",
+            "asin": "amzn1.dv.gti.a84b78eb-a739-4a57-8308-33c79b1268e6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MI5Spooks_Channel-Logo_3840x2160_white._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "48 Hours",
+            "asin": "amzn1.dv.gti.71187e6b-10a7-4ab6-b2d2-813534717185",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/48_hours._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CINEVAULT Westerns",
+            "asin": "amzn1.dv.gti.72e048f5-5ad1-4b50-a931-1c9208127070",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinevault_westerns._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "AMC Thrillers",
+            "asin": "amzn1.dv.gti.3ae134a2-6ae0-437c-af4a-c35122365c2e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AMCN_AMCThrillers_Freevee_logo-white_1920x1080_v011._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Asylum Movie Channel",
+            "asin": "amzn1.dv.gti.39eac8a4-9d6e-417d-8030-6214b7f5a990",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s122652_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Horror Hub",
+            "asin": "amzn1.dv.gti.b41384da-714e-4b5f-895f-46bce1840266",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/horror_hub_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ScreamboxTV",
+            "asin": "amzn1.dv.gti.1fa777dc-7115-4ad8-bdca-a9992e9c8d9e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/screamboxtv_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cinevault",
+            "asin": "amzn1.dv.gti.84632a1c-1e45-47a3-9fef-3e2b5b9d137e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Cinevault._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MGM Celebrates Black Cinema",
+            "asin": "amzn1.dv.gti.3b58c521-8215-4899-ac45-fb460f4d0eab",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MGMCelebratesBlackCinema_Freevee_ChannelArt_1920x1080_002_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Universal Movies",
+            "asin": "amzn1.dv.gti.0cf6cadb-f2b1-489c-80c2-159b61145137",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/UniversalMovies-72-dpi-1920-x-1080-16-9-logo-aplha-channel-freevee-PNG_Jan_2025._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Maverick Black Cinema",
+            "asin": "amzn1.dv.gti.b4d483ad-69f9-4e17-94a0-7bef173ea66a",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Maveric_Black_Cinema._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Always Christmas",
+            "asin": "amzn1.dv.gti.c443f154-615f-43c5-b61d-8de681dead03",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Amazon_Freevee_Always_Christmas_002._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Bosch",
+            "asin": "amzn1.dv.gti.2c3383e4-0ff3-4f26-963e-f9fdbfb07b82",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Bosch_TT_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Crime Scenes",
+            "asin": "amzn1.dv.gti.5e4ccdaa-26a2-4314-95a4-a0c5e3c40b79",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_CrimeScenes_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The FBI Files",
+            "asin": "amzn1.dv.gti.0a33f264-76b0-4894-aa76-d7dcd241cd37",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/the_fbi_files_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "World's Most Evil Killers",
+            "asin": "amzn1.dv.gti.fcedb6b2-400e-4bc4-801e-363969ffc47d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_WorldsMostEvilKillers_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Silent Witness & New Tricks",
+            "asin": "amzn1.dv.gti.bf061f68-de79-469b-b4c8-47522c3f22a7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/silent_witness._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Crime Cults Killers by A&E",
+            "asin": "amzn1.dv.gti.80f33cd6-5260-46af-95e8-7a41b05e7d9f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/crimes_cults_killers._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Dr G Medical Examiner",
+            "asin": "amzn1.dv.gti.e7daf3f7-ad3e-4331-836f-9190419fa908",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_DRGMedicalExaminer_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "World's Wildest Police Videos",
+            "asin": "amzn1.dv.gti.429314a3-4cb0-46d0-900c-85644e248008",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Worlds_Wildest_Police_Videos_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The FBI",
+            "asin": "amzn1.dv.gti.4a3b7a1b-075f-4527-8b2c-3ee1c92ad6ee",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_TheFBI_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Crime ThrillHer",
+            "asin": "amzn1.dv.gti.8ad3bbbb-c2d0-40f1-9ed0-8addcdb0dda3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Crime_ThrillHer_Presented_by_Lifetime_WHT_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Gardening With Monty Don",
+            "asin": "amzn1.dv.gti.7a1107dd-03ea-4851-84c3-3c303bd9330f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/gardening_with_monty_don._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Grand Designs",
+            "asin": "amzn1.dv.gti.f01c4104-fb49-4a83-9f41-5cfc68fba312",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/GRANDDESIGNS_updatedchannellogo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Places & Spaces",
+            "asin": "amzn1.dv.gti.c6c43925-9cb0-40da-bdb0-7b2894021cec",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/PS_updatedchannellogo_1920x1080_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Home Crashers",
+            "asin": "amzn1.dv.gti.9bc877e7-f199-4f68-aef3-16be102362fb",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HomeCrashers_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Home.Made.Nation",
+            "asin": "amzn1.dv.gti.40b7ec54-f5b3-716b-87d1-2afefa145cf2",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Home_Made_Nation_WHT_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Curb Appeal",
+            "asin": "amzn1.dv.gti.f2f31566-dd16-4bcd-b7f7-f9001c63839f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_CurbAppeal_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Homeful",
+            "asin": "amzn1.dv.gti.408bf2e2-6310-4d94-a387-19b3049882b1",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Homeful._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Tastemade Home",
+            "asin": "amzn1.dv.gti.f6572758-20e4-4dff-a8fc-90aa1ed75cd3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/16x9_TMHomeLogo_FreeVee._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BBC Home & Garden",
+            "asin": "amzn1.dv.gti.1a284689-38e8-41d4-8fec-4a30c0e4ecea",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/bbc_home__garden._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "This Old House Makers Channel",
+            "asin": "amzn1.dv.gti.120578f9-a9ff-4f67-8db3-31b57dd85b49",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s122387_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "History Untold",
+            "asin": "amzn1.dv.gti.d02f72a0-45f7-414d-8efd-5b9355521341",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HistoryUntold_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "History Hit Channel",
+            "asin": "amzn1.dv.gti.416c2e3f-74f3-484d-a371-71231e442c78",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/history_channel._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Science is Amazing",
+            "asin": "amzn1.dv.gti.0a397839-f2a6-466e-aa32-ba6820dcd1e9",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_ScienceIsAmazing_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Love Pets",
+            "asin": "amzn1.dv.gti.d4969937-f752-4203-85a5-2b5393fc43fb",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/love_pets._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Love Nature",
+            "asin": "amzn1.dv.gti.9104511c-fcec-4f40-8c15-3937a090f9e6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/LoveNature_Logo_White_1920x1080_Jan_2025._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Dinos 24/7",
+            "asin": "amzn1.dv.gti.e2e66d8e-72d2-4950-a28e-511ea20e08f4",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dinos._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Military Heroes",
+            "asin": "amzn1.dv.gti.6d612e28-8db9-4539-885c-411897166edf",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Military_Heroes_Presented_by_HISTORY_WHT_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "True History",
+            "asin": "amzn1.dv.gti.6da2f55f-36d8-4379-b6b3-cd75acc9d70d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TH_PBTGC_1920x1080_FAST._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "StarTalk",
+            "asin": "amzn1.dv.gti.c3b17278-3b2b-426b-abd1-1ab5952d9554",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/startalk._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BBC Travel",
+            "asin": "amzn1.dv.gti.1455a8f9-c711-4161-9944-361b3226f382",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/bbc_travel._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Judge & Jury",
+            "asin": "amzn1.dv.gti.a781c8a5-2c7e-4f93-8eeb-ffd7f73e9f60",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/JudgeJury_Final_BW-1920x1080_NoFVLogo_Dec_2024._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Nosey",
+            "asin": "amzn1.dv.gti.4bb0faf5-52da-4afd-a73d-1c3efc4e61b4",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Nosey_Logo_1920_1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "TMZ",
+            "asin": "amzn1.dv.gti.cb45ec49-44fb-4c5a-a275-3f6f9c42083e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TMZ_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Confess by Nosey",
+            "asin": "amzn1.dv.gti.792b1add-4005-4f9f-bcc3-f3a9e24b1bbc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/confessbynosey._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Jerry Springer presented by Nosey",
+            "asin": "amzn1.dv.gti.e2de6851-3dd1-488d-876f-087b5ca83e5f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/JerrySpringerNosey_1920X1080_white._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Divorce Court",
+            "asin": "amzn1.dv.gti.acb7ec53-849e-734a-8c9e-c119427c0dcb",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s113360_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Inside Edition",
+            "asin": "amzn1.dv.gti.95745a17-440b-4e5d-9779-ccd6f5a01d3a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/inside_edition._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Court TV",
+            "asin": "amzn1.dv.gti.d9fe8a7a-cba1-4943-99d5-21059d1e72f8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/CourtTV_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Tribunal Justice",
+            "asin": "amzn1.dv.gti.f4666152-5a76-4a8c-9e72-839ea5a4ae5b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TRBL_S1_LinearChannel_1920x1080_Logo_en_US_NoLogo_Dec_2024._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Couples Court",
+            "asin": "amzn1.dv.gti.3ce3a612-057b-4cb0-bb7e-89140729583a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/couples_court._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Jim Rome Show",
+            "asin": "amzn1.dv.gti.537dc03a-1483-4cd2-a486-fc29401bb18e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/jim_rome._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MLB",
+            "asin": "amzn1.dv.gti.34721e3d-35a5-44f1-bbd1-30a7e0d7e3d5",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/V2/mlb_white._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Willow Sports",
+            "asin": "amzn1.dv.gti.fdcea84f-96cd-4535-beb6-766633403c91",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/willow._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Zona TUDN",
+            "asin": "amzn1.dv.gti.efbf1e0d-9b81-4b8c-aa0b-7fff71a194e8",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/zona_tudn._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Triton Poker",
+            "asin": "amzn1.dv.gti.8c11e717-9160-4aa9-af45-54037cec7150",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/triton_poker._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Team USA",
+            "asin": "amzn1.dv.gti.58fccebc-8ba9-413b-aa1d-13ec4309ed99",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/team_USA._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Red Bull",
+            "asin": "amzn1.dv.gti.3d24e1e3-b1a8-40d0-b852-af19a11d1692",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/red_bull_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "GolfPass",
+            "asin": "amzn1.dv.gti.ff6f50ed-301d-42e6-a83f-a989ef5aba3b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/golf_pass_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ACC Digital Network",
+            "asin": "amzn1.dv.gti.f001c002-1e65-440d-a16f-d9c6f18fb177",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/ACC_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "DP World Tour",
+            "asin": "amzn1.dv.gti.1363936f-5abf-47d0-8b03-c67ea6a6cf79",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/DP_World_tour._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Movie Favorites by Lifetime",
+            "asin": "amzn1.dv.gti.12b9d381-2d73-483c-975d-311416a1adf2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/movie_favorites_by_lifetime_new_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Moviesphere",
+            "asin": "amzn1.dv.gti.38ba6b2e-9ca6-8aa2-bdbf-134331eb714d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Moviesphere_FreeVee_H_1920x1080_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Hallmark Movies & More",
+            "asin": "amzn1.dv.gti.ae79bd85-6d9c-4f34-8055-8e00c044bf5b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/hallmark_movies_more_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MGM Presents: Action",
+            "asin": "amzn1.dv.gti.ddf95c89-988c-429c-8773-2c714483d0a7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mgm_presents_action_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Isn't It Romantic",
+            "asin": "amzn1.dv.gti.9426537a-2e9e-4d7e-a2e0-3531a94c2f9a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/isnt_It_romantic._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Scares by Shudder",
+            "asin": "amzn1.dv.gti.9ee147aa-69e1-4908-8d3f-743d08f4effb",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AMCN_ScaresbyShudder_Freevee_logo-white_1920x1080_v011._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "OUTLAW",
+            "asin": "amzn1.dv.gti.34bf7fe9-e254-4300-b3de-e91d1b61eab9",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/outlaw._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Mystery Science Theater 3000",
+            "asin": "amzn1.dv.gti.c151d406-48c2-4061-893f-c7e434329ec8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MST3K_1920x1080_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "RiffTrax",
+            "asin": "amzn1.dv.gti.0f7e93b0-5ec6-453f-8829-6869c2f607e1",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/rifftrax._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MGM Presents: Horror",
+            "asin": "amzn1.dv.gti.fec0358e-8003-401a-9c15-4f3b8d82184b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mgm_presents_horror._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "In The Heat Of The Night",
+            "asin": "amzn1.dv.gti.6eb0b60d-c9e0-4b4c-820e-663b6bef7531",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/in_the_heat_of_the_night._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NYPD Blue",
+            "asin": "amzn1.dv.gti.a52f9a53-3ad9-4ace-8df1-aa017fcd9468",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NYPDBlue_01_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "American Crimes",
+            "asin": "amzn1.dv.gti.42b2e174-9925-404b-a111-18049453bbc9",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/American_Crimes_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Midsomer Murders",
+            "asin": "amzn1.dv.gti.83d2b623-0389-487a-876c-78011eed422b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/MidsomerMurders_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "A&E Crime 360",
+            "asin": "amzn1.dv.gti.74b85636-b17e-2ac0-c7e0-7c77f894288f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ae_crime_360._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cold Case Files",
+            "asin": "amzn1.dv.gti.95297a46-6754-4937-a2f6-648e04b1869b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Cold_Case_Files_Presented_by_AE_WHT_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Forensic Files",
+            "asin": "amzn1.dv.gti.96b7ec56-e0d6-3d04-9083-2e7d723120ef",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_ForenscFiles_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Chasing Criminals",
+            "asin": "amzn1.dv.gti.833587ac-b7a5-42b8-82fe-65ec5ae7976d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_ChasingCriminals_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Love Kills",
+            "asin": "amzn1.dv.gti.044cd8c4-3b89-412a-a0fd-a5a60a8a728a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_LoveKillsl_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Universal Crime",
+            "asin": "amzn1.dv.gti.b570413b-ecbd-4b96-b119-108a35c0eb4a",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Crime_FAST_TitleArt_White._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Reelz Channel",
+            "asin": "amzn1.dv.gti.8cb7f4c3-a651-21e4-0f6c-3a871b409475",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Reelz_Channel_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "JAIL",
+            "asin": "amzn1.dv.gti.f8383507-99b1-49cf-b3c7-20c849f34521",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/jail_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Leverage",
+            "asin": "amzn1.dv.gti.782676ed-7258-42a9-ac91-d85b7993a778",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Leverage_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Living with Evil",
+            "asin": "amzn1.dv.gti.5d1949d5-13d3-4c95-b275-c000ef0fc694",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_LivingWithEvil_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "TV One Crime & Justice",
+            "asin": "amzn1.dv.gti.f7e0f9a7-7c19-443c-afc2-d2ebcf405d7c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/TVOne_Crime_Justice_Logo_White_1920x1080_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Oxygen True Crime Archives",
+            "asin": "amzn1.dv.gti.1301949d-e159-48fb-ad4a-b85b6a039ca8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/oxygen_true_crimes_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "True Crime & Scandals",
+            "asin": "amzn1.dv.gti.a7b60524-e7e8-47b6-9138-b10f2febae9a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/True_Crime_and_Scandals_WHITE_Logo_1920x1080-1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Nash Bridges",
+            "asin": "amzn1.dv.gti.8c7af9d7-f2d7-4915-bcb7-d4be784a68a8",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nash_bridges._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Britbox Mysteries",
+            "asin": "amzn1.dv.gti.8334bc89-0ea8-4f8f-9948-85449ae585f2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/britbox_mysteries._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Unsolved Mysteries",
+            "asin": "amzn1.dv.gti.5cb7ec58-1361-4cdb-2006-43d759754e46",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_UnsolvedMysteries_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Amazon Live",
+            "asin": "amzn1.dv.gti.75e91d89-0712-4c7a-9971-4ded9597cf95",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Amazon_Live_PV_Tile_16x9_White_Mar_18_2025._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC LX Home",
+            "asin": "amzn1.dv.gti.dfe5ba88-26f6-44bf-91a4-a3209f03c5de",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/LXHome__Freevee_1920x1080_white_._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Price is Right: Drew Carey",
+            "asin": "amzn1.dv.gti.9cfcc9e0-dba6-47ea-8112-b0521d1d502f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/price_is_right._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Game Show Central",
+            "asin": "amzn1.dv.gti.1ebb00d6-2a4e-38bc-7619-8a5bb444209c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/game_show_central._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Wipeout",
+            "asin": "amzn1.dv.gti.625d6683-7d76-40cd-b511-3a8edb0aff65",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Wipeout_01_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Price Is Right: The Barker Era",
+            "asin": "amzn1.dv.gti.711f0f5a-4aa9-4f4a-94e7-1b225d5fb7a2",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/TPIR_BARKER_updatedchannellogo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Are You Smarter Than A 5th Grader?",
+            "asin": "amzn1.dv.gti.8e3c9117-6478-4796-a49c-80ac21ec899f",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/are_you_smarter_than_a_5th_grader._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "American Ninja Warrior",
+            "asin": "amzn1.dv.gti.17683861-b63c-432c-91d6-d9da687a4e8e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ANW._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BUZZR",
+            "asin": "amzn1.dv.gti.80b7f4bc-9f89-ceac-58d8-415bef65f1a1",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/BUZZR_Updatedchannel_logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Supermarket Sweep",
+            "asin": "amzn1.dv.gti.19840776-89d4-426c-93d6-0775aac276bc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/SMS_updatedchannellogo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Telemundo Noticias Florida",
+            "asin": "amzn1.dv.gti.36811ec1-b6dd-496f-a194-acb758dd4520",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Telemundo_Noticias_Florida_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Telemundo Noticias Noreste",
+            "asin": "amzn1.dv.gti.a581af31-c19a-49f7-a9e9-dfc7747b90cb",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Telemundo_Noticias_Noreste_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "VICE",
+            "asin": "amzn1.dv.gti.f499eb53-faed-4181-a934-5554af033f8d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/VICE._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "OUTtv Proud",
+            "asin": "amzn1.dv.gti.e48be6c3-0229-434f-a035-85a91eb09208",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/outtvproud._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Generation Drama",
+            "asin": "amzn1.dv.gti.a6499c21-de58-4911-bfe5-1b4a2f475a04",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_GenerationDrama_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Dove TV",
+            "asin": "amzn1.dv.gti.20b7d54d-db09-c609-543d-b91b0706ed4a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Dove_Feb_2025_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Circle Country",
+            "asin": "amzn1.dv.gti.2fd62b9e-5aec-42be-b51a-f423385e4be5",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/circle_country._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Great American Adventures",
+            "asin": "amzn1.dv.gti.e003215a-6c45-4c75-8958-5144990d7a91",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/great_american_adventures_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The BLK Effect",
+            "asin": "amzn1.dv.gti.4e0bcceb-4796-42ce-8af6-28c801fb2387",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/the_blk_effect._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Bloomberg Originals",
+            "asin": "amzn1.dv.gti.66a9ca0f-420c-457f-abf8-d8f8e1a77ea5",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/bloomberg_originals_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Revry",
+            "asin": "amzn1.dv.gti.6964bd5a-fa5e-4e38-8771-d59455c7e316",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Revry_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "On the Telly",
+            "asin": "amzn1.dv.gti.9921d841-acf4-46a4-ad99-2412e121a313",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_OnTheTelly_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Top Chef Vault",
+            "asin": "amzn1.dv.gti.941a5e40-237f-411e-abf9-7a9bf958d9fc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/bravo_top_chef_vault_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Martha Stewart Channel",
+            "asin": "amzn1.dv.gti.07b7b41c-9af8-4e42-972b-2c54cd393327",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MarthaStewartChannelWhiteLogo_16-9Ratio_72DPI._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "America's Test Kitchen",
+            "asin": "amzn1.dv.gti.38badca2-de8c-50cf-6be0-7639033c5c23",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/ATK_Freevee_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "America's Test Kitchen Specials",
+            "asin": "amzn1.dv.gti.92f86fdd-a592-4f65-b088-9f549b14d527",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/test_kitchen_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Come Dine With Me",
+            "asin": "amzn1.dv.gti.acd9e916-284f-4ec3-b1b2-1de15297b599",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/come_dine_with_me_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Jamie Oliver",
+            "asin": "amzn1.dv.gti.b4286209-bbe6-4f51-b6e1-a2c807377591",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/jaime_oliver._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Iron Chef",
+            "asin": "amzn1.dv.gti.0ddd157a-f5a3-4807-a39f-bd180fbbbe07",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/iron_chef._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Lidia's Kitchen",
+            "asin": "amzn1.dv.gti.de676901-057a-46a1-8f81-88666185a496",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Lidias_Kitchen._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Get Cooking!",
+            "asin": "amzn1.dv.gti.5fdd077a-9def-4663-bca4-ffef52fd89a9",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/get_cooking._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Emeril Lagasse Channel",
+            "asin": "amzn1.dv.gti.2120d09e-95cd-44ab-a6c5-84ec6167cf23",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/emeril_lagasse._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HerSphere",
+            "asin": "amzn1.dv.gti.5bfbbb0a-054f-4d04-a503-1f46d2783270",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/hersphere._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Dungeons & Dragons",
+            "asin": "amzn1.dv.gti.a9f2e6e2-c700-4b5d-95c8-604dc6aaf6ff",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/dungeons_and_dragons_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Anime x HIDIVE",
+            "asin": "amzn1.dv.gti.edcd011f-371c-429e-bcd0-e168f4e976c7",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AMCN_AnimexHidive_Freevee_logo-white_1920x1080_v011._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Latino Vibes",
+            "asin": "amzn1.dv.gti.c8e1aef5-d192-41d9-8e83-c058ee758bc3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/latino_vibes._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Naruto",
+            "asin": "amzn1.dv.gti.12465ed4-48c6-4004-9dda-63074aded3e7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/naruto._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Hot Ones",
+            "asin": "amzn1.dv.gti.205fa8a2-0c9e-41a9-919c-ebf4a29ffa6d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Hot_Ones_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CNN Originals",
+            "asin": "amzn1.dv.gti.ddcc09e4-3f47-45cb-a61b-57c18bad0210",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CNN_Originals_ChannelGuideLogo_1920x10801._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Sailor Moon Channel",
+            "asin": "amzn1.dv.gti.a1222de8-3781-44b5-a4de-270d653f8345",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/sailor_moon_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Wondery",
+            "asin": "amzn1.dv.gti.a28176e7-7d6a-4b04-b972-85aca1e285d6",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/wondery_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FilmRise Black TV",
+            "asin": "amzn1.dv.gti.8626a047-a797-4993-a0f6-4bf2f8e46c2a",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Filmrise_Black._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Antiques Roadshow UK",
+            "asin": "amzn1.dv.gti.4d8e0bab-6ba2-4be7-b0e1-da0ecb50b84d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/antiques_roadshow_uk._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Antiques Road Trip",
+            "asin": "amzn1.dv.gti.ee04f4bc-69c1-4792-bcdc-7e830e89d322",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s128545_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Extreme Makeover: Home Edition",
+            "asin": "amzn1.dv.gti.29b632ce-a877-4951-ac5f-5bca5e35d1d9",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ExtremeMakeoverHomeEdition_01_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Extreme Living",
+            "asin": "amzn1.dv.gti.679ddf7f-2571-47f8-a428-135d7821243b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_ExtremeLiving_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Unspeakable",
+            "asin": "amzn1.dv.gti.8c42ed31-f240-411b-80ef-fe1dcadc20c6",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/unspeakable._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Bravo Vault",
+            "asin": "amzn1.dv.gti.4ccb2632-3bfe-4df0-88d2-be3afb0f6c6b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/bravo_vault._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "POWERNATION",
+            "asin": "amzn1.dv.gti.bf72ca15-61f4-4fc2-b5f5-4906d38fc08f",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s123515_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "All Weddings WE tv",
+            "asin": "amzn1.dv.gti.d43eb312-92e7-4359-9752-870fa0f20628",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WEtv_AW_ChannelLogo_Horiz_White_FreeVee1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "4UV",
+            "asin": "amzn1.dv.gti.40f54b92-33cb-4dd6-a42c-8a70aaa5eb48",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/4UV_WHT_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ChoppertownTV",
+            "asin": "amzn1.dv.gti.102459f7-35b7-4735-a01e-9abbcb2e0fb3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Choppertown._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Gameplay Minecraft",
+            "asin": "amzn1.dv.gti.d73f2677-126b-45a2-9058-253409fde0a9",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/gameplayminecraft._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "365BLK",
+            "asin": "amzn1.dv.gti.1aa470ab-612d-4482-956b-17311061ab40",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/365BLK._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Degrassi",
+            "asin": "amzn1.dv.gti.e20a07e2-8287-4d4d-8db7-26f9dd3b741b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Degrassi_White_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Mythical 24/7",
+            "asin": "amzn1.dv.gti.ee5fc568-6f0a-4fa4-bd0f-d68f739a1e9b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mythical_247_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Nip / Tuck",
+            "asin": "amzn1.dv.gti.584f016b-6644-4af5-9f65-3017274c8ec3",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_NipTuck_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MHz Now",
+            "asin": "amzn1.dv.gti.0eb31099-59c8-4256-a966-56eb3739b8a7",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Mhz_Now._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Primetime Soaps",
+            "asin": "amzn1.dv.gti.7701803a-82e7-4aa2-bcbc-a49c7bc4569c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_PrimetimeSoaps_1920x1080_wht._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "El Rey Rebel",
+            "asin": "amzn1.dv.gti.c47a9fd4-82cf-4293-940d-f9ef4811865a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/el_rey_rebel._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FilmRise British TV",
+            "asin": "amzn1.dv.gti.d9dc8e49-305c-47b8-9db3-502e567f0451",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/filmrise_british_tv._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Designated Survivor",
+            "asin": "amzn1.dv.gti.3be84697-3678-4b4d-97f2-ab2b50d493f8",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/DesignatedSurvivor_Freevee_logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Bargain Hunt",
+            "asin": "amzn1.dv.gti.6d4894a5-fc6c-4d9c-b7c2-ba146ec48d08",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/bargain_hunt._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Bachelor Nation",
+            "asin": "amzn1.dv.gti.97fb2211-572f-429f-a7cc-318e4016b588",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_BachelorNation_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "SPEEDVISION",
+            "asin": "amzn1.dv.gti.8f6ecc43-5bff-4ce6-ab8d-ff12642ecfa2",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/speedvision._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Perform",
+            "asin": "amzn1.dv.gti.0c94e7d0-05d4-4445-abcc-7c78b1d2414b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Perform_Presented_by_Lifetime_WHT_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Rig TV",
+            "asin": "amzn1.dv.gti.1898a0b6-a9c7-4c56-ad09-f31bd1134588",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/rigtv._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Girls Next Door",
+            "asin": "amzn1.dv.gti.16a9b2a9-c7dc-40c8-b67b-61380542fdea",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/The_Girls_Next_Door._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Black Love",
+            "asin": "amzn1.dv.gti.cb13a11a-d708-4281-9066-bd7dceb067b2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/black_love._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Fifth Gear",
+            "asin": "amzn1.dv.gti.19f772a5-1e5b-4346-88fd-b097e6e0ac5f",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/fifth_gear_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Ring Nation",
+            "asin": "amzn1.dv.gti.f2f4162b-5b1d-44ca-a9c9-c686068cc906",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ring_nation._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Rovr Pets",
+            "asin": "amzn1.dv.gti.49e04fcc-db8e-42af-883d-d80359d917e7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/rovr_pets_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HSN",
+            "asin": "amzn1.dv.gti.3e3e1589-997e-473f-a335-ba4e3d1378e8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HSN_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Neighbours Looking Back",
+            "asin": "amzn1.dv.gti.faff9e00-ad7a-4765-8035-960dd2720d3a",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s134042_lw_h10_aa._CB1198675309_SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The TED Channel",
+            "asin": "amzn1.dv.gti.35fded26-a9de-4143-8d5a-7ea655495005",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s124221_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "All Reality WE tv",
+            "asin": "amzn1.dv.gti.bd2813d5-5f39-46b2-b8b9-0d8a1f1c94f2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WEtv_AR_ChannelLogo_Horiz_White_FreeVee1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Project Runway",
+            "asin": "amzn1.dv.gti.f5038bc0-9004-4b1d-be55-dfb1da889ddb",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Project-Runway_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Deal Zone",
+            "asin": "amzn1.dv.gti.cab564b4-d64f-4cfb-89e3-6a9784e34d4f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/deal_zone_by_HISTORY._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Say Yes to the Dress",
+            "asin": "amzn1.dv.gti.3bea00ce-2233-4ba7-9690-2a563f22d2d6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_SYTTD_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "E! Keeping Up",
+            "asin": "amzn1.dv.gti.42e3e706-1c85-4ecc-a351-0b03e45fdeee",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/e_keeping_up_with_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Wicked Tuna",
+            "asin": "amzn1.dv.gti.97a89a47-10e3-498b-abe1-46446c13afd4",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WickedTuna_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Duck Dynasty",
+            "asin": "amzn1.dv.gti.42da9650-4ef5-4a31-9fdb-c59c7ac9d51b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Duck_Dynasty._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Judge Nosey",
+            "asin": "amzn1.dv.gti.df344758-140b-48b3-bcd0-506ab3ed6c82",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/judge_nosey._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "General Hospital",
+            "asin": "amzn1.dv.gti.f5c33475-3b9d-4e93-bbc4-a17dfd933bdb",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/GeneralHospital_01_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "QVC",
+            "asin": "amzn1.dv.gti.634a2568-ce0b-49df-8c1f-4cf8c12a4db3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/QVC_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Personal Injury Court",
+            "asin": "amzn1.dv.gti.63f7d4e5-a434-4f08-8dce-179583672dc5",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/personal_injury_court._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ET",
+            "asin": "amzn1.dv.gti.8aba26b5-e4b6-4486-e504-b23623a0bd0f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ET._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Relative Justice",
+            "asin": "amzn1.dv.gti.3357bbef-70c5-4710-a0e4-30cbc516ffbe",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/relative_justice._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Doctors",
+            "asin": "amzn1.dv.gti.140afbc8-cc20-4bc4-9396-5c3970cb98c4",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/the_doctors._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Caught in Providence",
+            "asin": "amzn1.dv.gti.6cd998b0-1065-4baf-8b89-a8f99c3543b1",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/CaughtinProvidence_FreeVee_FireTVLogo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Ellen DeGeneres",
+            "asin": "amzn1.dv.gti.0bd2e38e-4340-4454-8f23-94f0a4e3b98a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/channel-logo_16-9_3840x2160._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Court TV Legendary Trials",
+            "asin": "amzn1.dv.gti.d3a07c0d-aab0-4afc-a289-f31b438a3760",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Court_TV_Legendary_Trials_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Carol Burnett Show",
+            "asin": "amzn1.dv.gti.9b035c3d-5920-41bc-881d-30e4269ba840",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/TCBS_1920x1080_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Lassie",
+            "asin": "amzn1.dv.gti.6c6cce3b-ebb6-49b1-84ac-e5a6482d72fe",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/lassie_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Death Valley Days",
+            "asin": "amzn1.dv.gti.f9669ef2-7b9e-4d7c-8877-d83e757cab59",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/death_valley_days._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FilmRise Classic TV",
+            "asin": "amzn1.dv.gti.dcb7ec56-075c-5e31-239c-3391b565a4d2",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_ClassicTV_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Johnny Carson TV",
+            "asin": "amzn1.dv.gti.babca687-b663-40cc-b80f-c50d3ff708dc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/JCARTV_1920x1080_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Wanted: Dead or Alive",
+            "asin": "amzn1.dv.gti.8b056682-9b9c-4f83-8165-11dc26c9cd3c",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/WantedDeadorAlive_FreeVee_FireTVLogo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Life and Legend of Wyatt Earp",
+            "asin": "amzn1.dv.gti.33676e22-3358-4c3c-a6af-c37f2d0a7074",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_TheLifeAndLegendOfWyattEarp_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ALF",
+            "asin": "amzn1.dv.gti.b9398606-5a20-4a24-ac51-ada05c6913a0",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/ALF_1920x1080_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Ed Sullivan Show",
+            "asin": "amzn1.dv.gti.bbc3864f-014f-40e0-b620-a473c1d0889e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ed_sullivan._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Miramax Movie Channel",
+            "asin": "amzn1.dv.gti.fa7b7525-abd6-4f4b-b74b-7bd6230c4cb1",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/miramax._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "OuterSphere",
+            "asin": "amzn1.dv.gti.816ec1e2-f9ab-408c-810a-ec003bd39a5d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/outersphere._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Repair Shop",
+            "asin": "amzn1.dv.gti.340f9fcf-32c5-4e5f-a278-7080bbf142a2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_TheRepairShop_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Tiny House Nation",
+            "asin": "amzn1.dv.gti.3216efad-b4f2-4fcd-a0f0-655930df57b8",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/tiny_house_nation_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Beach Day",
+            "asin": "amzn1.dv.gti.848dbfab-ee23-4028-b9bb-b4f869c30995",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_BeachDay_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "This Old House",
+            "asin": "amzn1.dv.gti.40b80919-ef0b-cf3d-5e08-acfd12ef794b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/This_Old_House_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Rustic Retreats",
+            "asin": "amzn1.dv.gti.af1a651a-4c5d-44bd-a3d6-ee7a9d9b1c8d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_RusticRetreats_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Welcome Home",
+            "asin": "amzn1.dv.gti.38ea02cf-42d5-462b-b897-e3c262a993a7",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_WelcomeHome_1920x1080_wht._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Million Dollar House Hunters",
+            "asin": "amzn1.dv.gti.f5339666-77b1-434f-84f6-c96f3d63d550",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/million_dollar_house_hunters._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Ultimate Builds",
+            "asin": "amzn1.dv.gti.e8352966-83e3-470c-8740-d3ec22f33cc1",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_UltimateBuilds_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "My First Place",
+            "asin": "amzn1.dv.gti.bd30e19f-7df8-49e9-95b6-a39c1a9a5e16",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_MyFirstPlacel_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 13 Tampa Bay",
+            "asin": "amzn1.dv.gti.85b32b65-3711-4b0e-b822-6faf95c81ad5",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/FOX_Tampa_bay._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Detroit",
+            "asin": "amzn1.dv.gti.0176a824-17d2-4a8a-b3c6-2405b9fd9989",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_detroit._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 2 Detroit",
+            "asin": "amzn1.dv.gti.d446d8c8-af29-4b4b-99a6-2df616f7fbb7",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_detroit._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Minnesota",
+            "asin": "amzn1.dv.gti.0a801ae2-07db-40b4-a79f-60a8bc32cc05",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_minnesota._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 9 Minneapolis",
+            "asin": "amzn1.dv.gti.795cc149-61e6-44f7-8b7b-f42e397d7f7e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_minneapolis._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Colorado",
+            "asin": "amzn1.dv.gti.d0fb83fd-08db-43a1-a00a-ef4a77368fd4",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_colarado._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC 6 South Florida News",
+            "asin": "amzn1.dv.gti.5f6df1a1-63c0-4e94-8dce-d277a99505cc",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_south_florida_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 35 Orlando",
+            "asin": "amzn1.dv.gti.187a6fe4-7af6-4294-876f-7f2fa09bbcfc",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_orlando._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC Cleveland (WEWS)",
+            "asin": "amzn1.dv.gti.9d33aab5-982b-499f-b379-d4a033f5f88e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abc_cleveland_wews._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "WSOC Charlotte (ABC)",
+            "asin": "amzn1.dv.gti.943d1e0b-d097-43ff-9eff-1c9616950f30",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/charlotte._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "theGrio",
+            "asin": "amzn1.dv.gti.5abb931f-3731-95ca-bb38-f7b1898c3659",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s116018_lw_h8_ac._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX Soul",
+            "asin": "amzn1.dv.gti.1cd8e4e2-5b0f-457a-a2ec-c030d18ffd19",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s119212_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "TMNT",
+            "asin": "amzn1.dv.gti.178063fb-8f3a-4b07-b192-7cf05711c96c",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/TMNT_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PBS KIDS",
+            "asin": "amzn1.dv.gti.cbb434fc-303a-45ed-be7f-e87455a0e0c5",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/1920x1080_PBSKIDSlogo_white._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cartoon Rewind",
+            "asin": "amzn1.dv.gti.1816f7ee-7c22-45ea-8427-7f9691590288",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_CartoonRewind_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Power Rangers",
+            "asin": "amzn1.dv.gti.32187576-2634-4812-b499-490d0a1d0db5",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Power_Rangers_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Transformers",
+            "asin": "amzn1.dv.gti.90a27b2f-74f5-45a5-a43b-25949c37f48a",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Transformers_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Ultraman",
+            "asin": "amzn1.dv.gti.0e5874c4-0727-4633-93b4-09679892ce91",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Ultraman_1920x1080_logo_white._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Pet Collective",
+            "asin": "amzn1.dv.gti.698a7e17-b49e-40c6-b0e2-ed00ff20e820",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/TPC_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Little House on the Prairie",
+            "asin": "amzn1.dv.gti.b3176b64-bb05-4a2c-bdc1-c34baa313f01",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/little_house_on_the_prairie_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "B/R Sports Network",
+            "asin": "amzn1.dv.gti.83aa33dd-4b1b-46c7-be3f-a9edd02954cc",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BR_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "TBN",
+            "asin": "amzn1.dv.gti.5eac8ed0-2c7d-4a99-8a8d-7959dfc26e21",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/TBN_AmazonFreevee_ChannelLogo_1920x1080_6.13.23._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Joel Osteen Channel",
+            "asin": "amzn1.dv.gti.49c6fe82-c97b-4840-b3aa-0eef84768370",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/joel_osteen._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Highway to Heaven",
+            "asin": "amzn1.dv.gti.6bb387ba-c1fd-48c4-babb-624532161d92",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/HighwaytoHeaven_ChannelLogo_1920x1080F._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "In Touch +",
+            "asin": "amzn1.dv.gti.c17eb56f-083a-4f47-b950-653a4a4762ba",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/in_touch_._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "T.D. Jakes",
+            "asin": "amzn1.dv.gti.6adf24c1-1f7b-46d9-907d-e2b7d53f4066",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/td_jakes._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "TBN's Women of Faith",
+            "asin": "amzn1.dv.gti.b5659110-a6d9-4561-9d11-be35791f2252",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/women_of_faith._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Jewish Life Television",
+            "asin": "amzn1.dv.gti.5297f764-bb91-4806-8848-3140a1bda5ee",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/JLTV_2._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE R&B Classic Jams",
+            "asin": "amzn1.dv.gti.9a42977d-229b-46d3-afad-d79fcb466461",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/pv-linear-operations/XITE_RB_CLASSIC_JAMS_CHANNEL_LOGO_1920_1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE 80s Flashback",
+            "asin": "amzn1.dv.gti.89a1b888-9139-4a36-b62e-cea8690a57b2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/xite_80s_flashback_072024._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PBS Drama",
+            "asin": "amzn1.dv.gti.5c6c6e07-9878-4c51-814f-ae9a8b89cc72",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/PBS_Drama_Logo_White_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "That's So 90s",
+            "asin": "amzn1.dv.gti.998bc31e-4ba9-4ea0-b65c-50da22069686",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/that_so_90s._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Rings Of Power",
+            "asin": "amzn1.dv.gti.71260eb7-5e64-404e-ae25-65c352dea42b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/rings_of_power._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Nashville",
+            "asin": "amzn1.dv.gti.8be7279b-02c6-4456-9bf4-cd4324536d30",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/nashville._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Nikita",
+            "asin": "amzn1.dv.gti.b24177e1-d91c-4ac6-ad70-a39112866260",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_Nikita_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Electric Now",
+            "asin": "amzn1.dv.gti.c2e8fd28-0913-4255-9005-41ada26b0b4d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/ElecticNow_White-Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Western Bound Wrangled by INSP",
+            "asin": "amzn1.dv.gti.6c89b02d-734c-43a8-9fd4-21ff284adaf0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/western_bound._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Gameplay Roblox",
+            "asin": "amzn1.dv.gti.c6a1f0f9-69f2-49d8-a75b-fcc232e86b95",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/gameplayroblox._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Crunchyroll",
+            "asin": "amzn1.dv.gti.3078a516-26de-47b5-9578-02aabec74bfe",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/crunchyroll_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Hunter x Hunter",
+            "asin": "amzn1.dv.gti.d88d0a03-ccea-40b1-8ad0-47bac7b90567",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Hunter_x_Hunter_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Leave it to Beaver",
+            "asin": "amzn1.dv.gti.2e2fa521-1e68-4e20-94f9-ccaad1084c8e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/leave_it_to_beaver._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Alfred Hitchcock Presents",
+            "asin": "amzn1.dv.gti.61502133-c30b-4830-9919-03ac2d717be7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/alfred_hitchcock_presents_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Universal Westerns",
+            "asin": "amzn1.dv.gti.f5823221-b56d-42da-831b-ec4d751295b3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Universal_Westerns_FAST_TitleArt_White._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Universal Monsters",
+            "asin": "amzn1.dv.gti.86d532f7-d0ee-4364-8e13-19b9bbbeb322",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/universal_monsters_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Reading Rainbow",
+            "asin": "amzn1.dv.gti.32f7c3f4-f14c-4a1b-893e-09d6cca7ee7c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/PBS_Reading_Rainbow_Logol_White_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PBS Retro",
+            "asin": "amzn1.dv.gti.39e35bfd-c815-443a-81fa-30467bf3508f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/PBS_Retro_Logo_White_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "GET",
+            "asin": "amzn1.dv.gti.86b0c311-75fd-4914-9fe2-ba6e9793d86a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/get._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Green Acres",
+            "asin": "amzn1.dv.gti.1d31f93f-217f-4220-b0ad-e129a97b9021",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/green_acres_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Dick Van Dyke Show",
+            "asin": "amzn1.dv.gti.52ad08f7-9921-475d-ab48-4c0dec56668f",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_DickVanDykeShow_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Lone Ranger",
+            "asin": "amzn1.dv.gti.4c4b6abe-459b-4825-a5ae-b95c8217cdc9",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/the_lone_ranger_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC 10 Boston News",
+            "asin": "amzn1.dv.gti.3b78c6ee-6e59-4bb3-b36a-1f7793134fd0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_bostonnews._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Boston",
+            "asin": "amzn1.dv.gti.99bf9bb9-352e-4598-94d7-327bc286b41c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_boston._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Boston 25 News (FOX)",
+            "asin": "amzn1.dv.gti.02093b52-cdaf-43f7-9caf-ae7aa3776d80",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/boston_25_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC Bay Area News",
+            "asin": "amzn1.dv.gti.0fa2b75f-58c4-4faf-ac34-61297686d7f9",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_sf_bay_area_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Bay Area",
+            "asin": "amzn1.dv.gti.f78a3815-e04d-4586-8ea0-8707bdc3dfb8",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_bay_area._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC7 Bay Area",
+            "asin": "amzn1.dv.gti.17cd49aa-5712-4a21-9e38-24c6b2dd17a3",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abcotv_kgo_bay_area._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 2 San Francisco",
+            "asin": "amzn1.dv.gti.f1d016a3-1589-4d96-a433-dbc8934b0173",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fox_SF._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 10 Phoenix",
+            "asin": "amzn1.dv.gti.27ad26a8-1760-463a-8358-63e0eb7a4065",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_phoenix._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC Seattle (KOMO)",
+            "asin": "amzn1.dv.gti.35e0dbfb-5eb9-48f9-b9f9-23e466a0f48a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/komo_logo_station_vert_cutout_wht_primary_copy._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 13 Seattle",
+            "asin": "amzn1.dv.gti.4bfdd32e-3ea9-4d40-b1dc-0a2758418676",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/FOX_Seattle._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Vevo '80s",
+            "asin": "amzn1.dv.gti.600a2224-fbc0-4664-afb6-5a59c85fecef",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_80s._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE 60s & 70s Groove",
+            "asin": "amzn1.dv.gti.ffa2d27c-1b64-415d-8c86-9d468e6ceba0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/xite_60s_70s_groove_072024._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Vevo '70s",
+            "asin": "amzn1.dv.gti.1aae745c-f794-433b-9aac-1118a2b1f3ef",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_70s._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE Rock x Metal",
+            "asin": "amzn1.dv.gti.e1d522c6-e1cb-4282-b717-18b0e1c52778",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/xite_rock_x_metal._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Vevo Hip-Hop",
+            "asin": "amzn1.dv.gti.6b9f2ee9-a99e-45ea-bc62-11df51e78e07",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_Hip_Hop._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE Hits",
+            "asin": "amzn1.dv.gti.d42f1298-e17e-4267-87e7-27374f7a4c3b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/pv-linear-operations/XITE_HITS_CHANNEL_LOGO_1920_1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Qello Concerts by Stingray",
+            "asin": "amzn1.dv.gti.67f3276d-5774-42f1-af03-e7ccabadeb2b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/qello_concerts._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Vevo '90s",
+            "asin": "amzn1.dv.gti.3d27edca-70c6-4d69-9d51-361944657a3e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_90s._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Vevo R&B",
+            "asin": "amzn1.dv.gti.afcd28e9-8119-46a2-9b0b-2e48b02697ca",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_R_B._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Holidayscapes",
+            "asin": "amzn1.dv.gti.18bc74d5-ca8b-44dc-a880-b3430adc1985",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Holidayscapes._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 4 Dallas Fort Worth",
+            "asin": "amzn1.dv.gti.064d8696-a191-43ac-9a73-610798d9e99d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_dallas_worth._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC13 Houston",
+            "asin": "amzn1.dv.gti.1171477f-cd3e-4a96-a698-163c49c0d018",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abcotv_ktrk_houston._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 26 Houston",
+            "asin": "amzn1.dv.gti.882b4c97-996e-437e-8da6-fdc470240a3a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_houston._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 7 Austin",
+            "asin": "amzn1.dv.gti.44b08143-fdd1-4976-a27f-3740553618ba",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_austin._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC Greenville / Spartanburg / Ashville (WLOS)",
+            "asin": "amzn1.dv.gti.9d4ceea3-4cff-4fc3-9b97-94a16c838bf0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/logo_wlos_abc13_1920._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "WSB Atlanta (ABC)",
+            "asin": "amzn1.dv.gti.65a89fb7-d373-41aa-953d-cd0b051dd6f6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/wsbtv_atlanta._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 5 Atlanta",
+            "asin": "amzn1.dv.gti.861a9a1f-deb8-4824-a02d-b712eb42af86",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/focx_atlanta._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC Washington D.C. (WJLA)",
+            "asin": "amzn1.dv.gti.15a02638-a559-40e8-a171-46719f06350a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/logo_wjla_abc7_1920._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC 4 Washington News",
+            "asin": "amzn1.dv.gti.cfd1801c-a561-4df3-8e2a-c16251f5eef3",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_washington_dc_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 5 Washington DC",
+            "asin": "amzn1.dv.gti.4c6250dd-6b3b-4e0f-a87e-c28e7053ba1a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_washington._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE Classic Country",
+            "asin": "amzn1.dv.gti.0bcaa133-0f01-4ea9-b514-d6b665fd2df8",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/xite_classic_country._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE Country Today",
+            "asin": "amzn1.dv.gti.f771e1e9-a353-413f-9d26-abcca931f1bf",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/pv-linear-operations/XITE_COUNTRY_TODAY_CHANNEL_LOGO_1920_1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Vevo Country",
+            "asin": "amzn1.dv.gti.069c2a77-50da-4f94-94b3-75cadbdff3dc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/VEVO_CHANNEL_LOGOS_FREEVEE__Vevo_Country._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ZenLIFE by Stingray",
+            "asin": "amzn1.dv.gti.be10c0d0-e600-40b4-9264-44da8b77c1c0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ZenLife_By_Stingray._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Naturescape",
+            "asin": "amzn1.dv.gti.eb3ac9e8-3cd4-4b9e-bd1d-7177d3bddabe",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/naturescape_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE Rap Game",
+            "asin": "amzn1.dv.gti.a2a1e07f-0450-47dd-ab21-8a3f3c321949",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/pv-linear-operations/XITE_RAP_GAME_CHANNEL_LOGO_1920_1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE Hip-Hop Evolution",
+            "asin": "amzn1.dv.gti.d0513a68-062d-44d1-8eba-f921fd34e9b4",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/pv-linear-operations/XITE_HIPHOP_EVOLUTION_CHANNEL_LOGO_1920_1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Backstage",
+            "asin": "amzn1.dv.gti.2d1f316a-4aaf-4418-bad7-beae7ebe6c3f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Backstage_Freevee_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE R&B Feels",
+            "asin": "amzn1.dv.gti.05ff00b9-dfca-4356-b384-19ccfdfd1909",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/pv-linear-operations/XITE_RB_FEELS_CHANNEL_LOGO_1920_1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE 90s Throwback",
+            "asin": "amzn1.dv.gti.057e6465-1421-4182-a81e-831df61500cd",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/xite_90sthrowback_072024._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Real Housewives Vault",
+            "asin": "amzn1.dv.gti.f8f87daf-b78c-4301-9d31-0961364920da",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/bravo_real_houswives_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "All-Out Alaska",
+            "asin": "amzn1.dv.gti.c57e3ce6-7d9e-4aca-b849-fcedc8856a57",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_All-OutAlaska_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Top Gear",
+            "asin": "amzn1.dv.gti.81a50924-986d-4aa2-b0cd-6606d69bc795",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/top_gear._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Ice Road Truckers",
+            "asin": "amzn1.dv.gti.05085106-0f71-4422-bbb3-6bb748a18c3c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Ice_Road_Truckers_by_HISTORY_STACKED_WHITE_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Dog The Bounty Hunter",
+            "asin": "amzn1.dv.gti.afb36e7b-7800-4ac4-b4ea-98f263ed3a2f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dog_the_bounty._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Bad Girls Club",
+            "asin": "amzn1.dv.gti.1eaa7535-cf7b-45ce-8e67-28c7c040f859",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/bad_girls_club_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Dog Whisperer with Cesar Millan",
+            "asin": "amzn1.dv.gti.3b38b18c-ffbf-4ce2-b752-e8e71f3ea57b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dog_whisperer_with_cesar_millan_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MotorTrend FAST TV",
+            "asin": "amzn1.dv.gti.63c27eee-b0b3-4e8a-839d-0b1cedef9cb8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Motor_Trend._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Growing Up Hip Hop WE tv",
+            "asin": "amzn1.dv.gti.74c5936d-22aa-4cd4-baae-0a58a1d1b0f2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WEtv_GUHH_ChannelLogo_Horiz_White_FreeVee1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PBS Antiques Roadshow",
+            "asin": "amzn1.dv.gti.b737846d-44de-4bf9-9395-f512adbcea55",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/pbs_antiques_roadshow._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Great British Menu",
+            "asin": "amzn1.dv.gti.6bd4af9c-4382-4ca9-97c3-89dfddd07b42",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/great_british_menu._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Tastemade",
+            "asin": "amzn1.dv.gti.46b9934e-9949-9627-dbc6-e2e878d4ead2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/tastemade_food._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PBS Food",
+            "asin": "amzn1.dv.gti.c0bcf892-a1ab-4f3a-b90d-4016355a119d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/pbsfood._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BBC Food",
+            "asin": "amzn1.dv.gti.1c6d4fa0-d5ba-40f1-a74d-438adb9304c7",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Freevee_BBCFOOD_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Tasty",
+            "asin": "amzn1.dv.gti.e4f0cdde-c52f-48c8-a60a-ffc963c3bbff",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Tasty_White_1920x1080_Mar_2025._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Bondi Rescue",
+            "asin": "amzn1.dv.gti.76c999f1-1345-435b-9b23-6122bf0fb49f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BR_Channel_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BET x Tyler Perry Drama",
+            "asin": "amzn1.dv.gti.1345ef02-05fe-43d4-a775-4a8cb8fce08e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/tyler_perry_drama._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ION Mystery",
+            "asin": "amzn1.dv.gti.647eda4c-7b4f-49a2-b7b8-0033bbded712",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ion_mystery._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Stories by AMC",
+            "asin": "amzn1.dv.gti.c8df1bbe-3a9a-4e95-a1bc-fb941bf8751d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/stories_by_amc._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Universal Action",
+            "asin": "amzn1.dv.gti.c4a7de88-b910-4270-bb84-5d8e2b5c2beb",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/universal_action_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Sheriffs: El Dorado County",
+            "asin": "amzn1.dv.gti.a1adead3-a3b3-4e18-90cf-7f1dfb1b3cad",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/sheriffs._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Chris Hansen's Trublu Crime Network",
+            "asin": "amzn1.dv.gti.2d58c9a2-7734-4abe-9fa3-1029939eef8d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/chris_hansen_tru_blu._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FilmRise True Crime",
+            "asin": "amzn1.dv.gti.daeef58d-61d8-492c-8df3-cffc5dc26203",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Filmrise_True_Crime._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Mallorca Files",
+            "asin": "amzn1.dv.gti.aa919eb2-60ab-4c6e-bac4-1afc7ea4ce5b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mallorca_files._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cagney & Lacey",
+            "asin": "amzn1.dv.gti.51324730-3ea4-4aef-a938-21ca96210cfc",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cagney_and_lacey._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "America's Dumbest Criminals",
+            "asin": "amzn1.dv.gti.7587655c-0c9d-45ef-bbea-396f0aa89f8b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_AmericasDumbestCriminals_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BuzzFeed Unsolved",
+            "asin": "amzn1.dv.gti.640fe3ca-9aa4-474a-ba13-565a188a787a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/buzzfeed_unsolved._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Real Crime",
+            "asin": "amzn1.dv.gti.5f3e5f16-e8ca-41be-9e2f-f99f76a4ae09",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/realcrime._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Car Chase",
+            "asin": "amzn1.dv.gti.11224aeb-035b-4407-a3b2-28672fb478b6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/car_chase._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "True Crime Now",
+            "asin": "amzn1.dv.gti.1407c3c8-217e-427e-b373-9c47cdf7ccec",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/TrueCrimeNow_White_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Anger Management",
+            "asin": "amzn1.dv.gti.96019be6-1cbf-4cd1-a9a1-c586ebdebd8e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/AngerManagement_FreeVee_FireTVLogo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Hit Sitcoms",
+            "asin": "amzn1.dv.gti.d354277c-5979-44a3-a94d-5e534dec2e59",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HitSitcoms_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "LOL Network",
+            "asin": "amzn1.dv.gti.645d769e-5b81-4b8c-a654-36e71e4bf03f",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/KH_LOL_Network-16x9-Logo_White_0623._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Portlandia",
+            "asin": "amzn1.dv.gti.19fdeeb9-ba5b-4a60-a407-a8e8055b69f0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AMCN_PortlandiaIFC_Freevee_logo-white_1920x1080_v011._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Corner Gas",
+            "asin": "amzn1.dv.gti.6c9fc462-09d9-479b-b400-8d52836e19a1",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CornerGas_Logo_NewWOAnimated_Dec_2024._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "GET Comedy",
+            "asin": "amzn1.dv.gti.035f87b9-a24c-4d5a-b971-11a1dff80082",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/GET_Comedy._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Faithfully Funny",
+            "asin": "amzn1.dv.gti.47a5c6d8-68f2-4cfb-8685-7273d8771c43",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/faithfully_funny_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Laff More",
+            "asin": "amzn1.dv.gti.e87b7265-c2a7-45a8-87f7-10d632ea75cf",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Laff_More_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Kim's Convenience",
+            "asin": "amzn1.dv.gti.1b402a66-3cde-4f69-b611-ec8fe61f0653",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_KimsConvenience_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Marvelous Mrs. Maisel",
+            "asin": "amzn1.dv.gti.9ada2823-ea76-4577-a258-bf1662f5d570",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/ms_maisel._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 6 Milwaukee",
+            "asin": "amzn1.dv.gti.93bab040-596c-46d9-988e-f4efcb03edc6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_milwaukee._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC West Palm Beach (WPTV)",
+            "asin": "amzn1.dv.gti.a31262a3-c5f2-47a6-aefa-35dcc32d339c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/wptv_logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC Las Vegas (KTNV)",
+            "asin": "amzn1.dv.gti.1c305b1c-0e00-4a02-b0ba-d73b30858af0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/KTNV._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Action News Jax (CBS47 / FOX30)",
+            "asin": "amzn1.dv.gti.3e303751-629e-4d6d-8f6a-f87450d77ed5",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/action_news_jax._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS Grand Rapids (WWMT)",
+            "asin": "amzn1.dv.gti.e2e4370e-0418-4f7b-bded-05f781855eda",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/grand_rapids._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS Harrisburg (WHP)",
+            "asin": "amzn1.dv.gti.0965b946-ae2c-4dfd-beeb-ceeb66016be1",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/logo_whpc_cbs21_1920._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS Norfolk (WTKR)",
+            "asin": "amzn1.dv.gti.db66cd4d-be59-464f-a30e-41c4657da6f8",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_norfolk_wtkr._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX Oklahoma City (KOKH)",
+            "asin": "amzn1.dv.gti.bdc373db-b11b-4e10-bbd1-ece59c6ccd1d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/logo_kokh_fox25_1920._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Telemundo Noticias California",
+            "asin": "amzn1.dv.gti.629da277-99b2-401c-95f9-93dce1ba5355",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Telemundo_Noticias_California_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Telemundo Noticias Texas",
+            "asin": "amzn1.dv.gti.fe73d42e-0332-4061-93fc-68fe8f34e95d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Telemundo_Noticias_Texas_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Pink Panther",
+            "asin": "amzn1.dv.gti.02433639-b2d4-44be-90d1-f87144c29d00",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Pink_Panther_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FilmRise Westerns",
+            "asin": "amzn1.dv.gti.9e75a02d-ce70-4daa-8dc5-cb385817ec33",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_Western_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Addams Family",
+            "asin": "amzn1.dv.gti.90e3f2cb-d941-42a6-8051-2b7cf78d03dc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/addams_family._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Real McCoys",
+            "asin": "amzn1.dv.gti.de848ccb-8288-4616-a0ca-26a27497b5dc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_TheRealMcCoys_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Bob Ross Channel",
+            "asin": "amzn1.dv.gti.014a704f-87a4-45b7-a1a3-e55fd166d784",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/BobRossChannel_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Baywatch",
+            "asin": "amzn1.dv.gti.779e2ebd-146c-4814-b3ab-8e836ad6478d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/BAYWATCH_UpdatedChannelLogo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Grit Xtra",
+            "asin": "amzn1.dv.gti.59178d12-add3-4909-859a-77b2a4f37588",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/GritXtra_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Hunter",
+            "asin": "amzn1.dv.gti.8066a2d2-c840-45a1-ae70-0b230dc89651",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/hunter._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Rifleman",
+            "asin": "amzn1.dv.gti.a5b5d643-1e2b-499d-bd2e-246c68838856",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_TheRifleman_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Three Stooges +",
+            "asin": "amzn1.dv.gti.8afcd7f1-a6b3-46a0-bc2a-d3d0bed8ee7b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/3_stooges._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Crime Time",
+            "asin": "amzn1.dv.gti.f12c9ddb-e82e-4fd9-8d21-fffd786813e0",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Crime_Time_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Lawless",
+            "asin": "amzn1.dv.gti.982f8e6f-d429-4f0c-aac3-4277ec0a2cd6",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/lawless_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Wondery Exhibit C True Crime",
+            "asin": "amzn1.dv.gti.08287bb8-1b30-4b88-b8dc-54fb6bf3ea3e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/wondery_exhibit_c_true_crime_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC Comedy Vault",
+            "asin": "amzn1.dv.gti.25ce144c-35b3-4b4d-8dca-6937ed3bd869",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_comedy_vault._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "SNL Vault",
+            "asin": "amzn1.dv.gti.1e1c2d6f-b10e-4095-a3a1-c877989aff6e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/snl-vault-fclogo-72-dpi-1920-x-1080-16-9-logo-for-freevee-1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "National Lampoon",
+            "asin": "amzn1.dv.gti.8df5b87f-ad46-4dcc-a66a-5ba5d9cbaffd",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/national_lampoon._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Conners",
+            "asin": "amzn1.dv.gti.c49454e1-8a95-4df3-8032-c4ed2b8bc8f2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/the_conners._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Saved by the Bell",
+            "asin": "amzn1.dv.gti.d2361a04-ab8f-47ae-b90e-1b6425f762cc",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/saved_by_the_bell_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Harlem",
+            "asin": "amzn1.dv.gti.8891e4a3-d8b3-4a34-b1a9-30a2f58a5399",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Harlem_ChannelLogo_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Are We There Yet?",
+            "asin": "amzn1.dv.gti.02cc17fe-febf-4579-83fb-d1e4ce19a4b1",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/AreWeThereYet_FreeVee_FireTVLogo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Korean Blockbusters",
+            "asin": "amzn1.dv.gti.02def650-4094-4963-a66b-9ba70b4df358",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/korean_blockbusters._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "IFC Films Picks",
+            "asin": "amzn1.dv.gti.b5cbc582-b707-4f60-91f8-d6cd55e8f47d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/amc_ifc_picks._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Gravitas Movies",
+            "asin": "amzn1.dv.gti.4acee93e-27d9-4da3-97ee-a2b6e4d49aec",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/GV_Movies_Freevee_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HBO Boxing",
+            "asin": "amzn1.dv.gti.61219b75-7d0c-419c-9649-13d1a90b3f56",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Pickleballtv",
+            "asin": "amzn1.dv.gti.8003caa5-5aa3-47ee-8af4-5db700930d5c",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/pickleball_tv_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "World Poker Tour",
+            "asin": "amzn1.dv.gti.32d541e3-ff9f-400d-bd05-8c8c6e154cd9",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s135701_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Fubo Sports",
+            "asin": "amzn1.dv.gti.4cf6fe7b-f04d-4427-aa5e-3b5055e3c482",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fubo_Sports_Logo_Updated_Dec_2024._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBA",
+            "asin": "amzn1.dv.gti.aa844b16-5fde-46c3-bf63-8ac7c061e862",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NBA._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "F1 TV",
+            "asin": "amzn1.dv.gti.d723fc51-623f-44e0-a5b3-8703f45f7f93",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/F1Channel_1920x1080_Jan_2025._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "UFC",
+            "asin": "amzn1.dv.gti.6dc46836-6be7-4946-88cb-1472347d2d5b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/UFC._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ESPN Ocho",
+            "asin": "amzn1.dv.gti.03f21455-7993-4b7b-a106-61fff7573646",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Logo_Ocho_16x9_White._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Ring",
+            "asin": "amzn1.dv.gti.85fc2af4-ebac-45fb-a9d8-da1a51ad3e3f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/the_ring._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NHL Channel",
+            "asin": "amzn1.dv.gti.fcd4316a-f18a-446f-aba1-afecd1ea73d8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/NHL._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Overtime",
+            "asin": "amzn1.dv.gti.b62af79b-9214-43ec-bf2c-7015aed4a91d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/amc_overtime._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Pac-12 Insider",
+            "asin": "amzn1.dv.gti.2e3ab751-2db2-4da8-8b96-0dd41cbe2572",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/PAC_12._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Unbeaten",
+            "asin": "amzn1.dv.gti.3b36d18b-4547-4276-922f-2dddbb533999",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Unbeaten_1920x1080_logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BEIN Sports Xtra",
+            "asin": "amzn1.dv.gti.4103a7b8-50e8-4ae8-bd70-46a833cfd737",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/beIN_SPORTS_XTRA_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NESN Nation",
+            "asin": "amzn1.dv.gti.1376fe22-f25a-49df-b198-c397c611715d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nesn_nation._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Women's Sports Network",
+            "asin": "amzn1.dv.gti.7c35d3e8-eed7-4a8b-a6d9-176a787f4a2c",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WSNLogoWhite_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Squash TV",
+            "asin": "amzn1.dv.gti.e3de2605-f6cf-4ffb-aa12-2d234b457866",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/squashtv._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BBC News",
+            "asin": "amzn1.dv.gti.6d59e5c1-48ce-4b0e-8970-4874b47a414b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/BBC_News_Logo_16_9501._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Noticias Telemundo Ahora",
+            "asin": "amzn1.dv.gti.0f994f1a-cba5-47aa-bdb6-a2a3ad0a7805",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/NOTICAS_TELEMUNDO_AHORA._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "60 Minutes",
+            "asin": "amzn1.dv.gti.32f32348-684a-4666-8ec8-5975d6b49967",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/60_minutes._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Estrella News",
+            "asin": "amzn1.dv.gti.2975e62d-3548-4063-8dc8-6d134582af32",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/V2/Estrella_News_white._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX Weather",
+            "asin": "amzn1.dv.gti.907c1249-2309-4e13-afdf-1766574d2e53",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FoxWeather_FireTV_Logo_1920x01801._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Telemundo al Dia",
+            "asin": "amzn1.dv.gti.87a34fb4-96cb-4384-a755-9ab7b979d6f8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/telemundo_al_dia_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Reuters 60",
+            "asin": "amzn1.dv.gti.f7e164f1-50b7-4c04-ace7-f44d721db749",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Reuters-Logo_002_March_2025._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Today All Day",
+            "asin": "amzn1.dv.gti.bfcd0e4f-421f-4dab-ac7a-0fdc69c56c35",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/today_all_day._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "AccuWeather NOW",
+            "asin": "amzn1.dv.gti.af899d12-51a2-42a0-ada1-55976f0f505d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/AWX-Now-1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Vice News",
+            "asin": "amzn1.dv.gti.2298bcfe-7c18-4a6d-a2c4-1f6b1d630cad",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Vice_News._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "I Was Haunted",
+            "asin": "amzn1.dv.gti.d9e47782-2316-44f4-a74b-98f3b4c3663a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_IWasHaunted_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Ghosts are Real",
+            "asin": "amzn1.dv.gti.6f7845d4-3261-449c-9968-db59c19fcfe1",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_GhostsAreReal_Wht_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Paranormal Files",
+            "asin": "amzn1.dv.gti.3edc0b17-4a06-42ce-9eef-903a9795264e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s119397_lw_h10_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Alien Nation by DUST",
+            "asin": "amzn1.dv.gti.a6b7ec73-65dd-b6c3-a481-e0b101ae639b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/alien_nation._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Classic Doctor Who",
+            "asin": "amzn1.dv.gti.42dfe367-b555-49f9-bdcd-03b9823bc3c5",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/classic_doctor_who._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "HauntTV",
+            "asin": "amzn1.dv.gti.4d76f451-63b6-4509-813c-76fe482db8c4",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/haunttv._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Farscape",
+            "asin": "amzn1.dv.gti.41305995-25c7-4ab9-b51d-3782c7848617",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/farscape._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Horror Stories",
+            "asin": "amzn1.dv.gti.2e2c19da-51d4-4284-945a-c77c61b5547e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/horror_stories._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Beyond Belief",
+            "asin": "amzn1.dv.gti.3075b713-11d7-4985-b1ef-fc4105f05176",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Beyond_Belief._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BBC Sci-fi",
+            "asin": "amzn1.dv.gti.5b70cabf-7154-441b-8d4a-c8cc4e926d97",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/bbc_scifi._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Jack Hanna Channel",
+            "asin": "amzn1.dv.gti.039f88fa-59cd-4be8-b5f8-1eb400e5a4d3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/jack_hanna._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "EarthDay 365",
+            "asin": "amzn1.dv.gti.4b2a5b61-9833-4b5b-a29b-63d55f4a6966",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/earthday_365._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "AWE Plus",
+            "asin": "amzn1.dv.gti.da816f4b-cefc-4677-af6f-ad80bdcc00f5",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s117260_lw_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Tastemade Travel",
+            "asin": "amzn1.dv.gti.702ea8d0-52a6-48ca-adf4-f2e1ce849e23",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/tastemade_travel._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MagellanTV Now",
+            "asin": "amzn1.dv.gti.75a71392-6e5a-4962-a8d1-58919b2c8bc1",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/magellantv_now_DE._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Documentary+",
+            "asin": "amzn1.dv.gti.1b1c0fab-2ef9-4681-81cf-621fc8c36ff8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/documentary._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Bizarre Foods with Andrew Zimmern",
+            "asin": "amzn1.dv.gti.a782af57-08c0-41cd-bbd8-449204162c6b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_BizarreFoods_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "No Reservations",
+            "asin": "amzn1.dv.gti.9680c47b-8e9d-46af-a4ed-e4502f5b7c3f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_NoReservations_1920x1080_new_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Sweet Escapes",
+            "asin": "amzn1.dv.gti.3e6dc06b-5ba5-4b75-ba13-ab53fd560f87",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_SweetEscapes_1920x1080_wht._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Hell's Kitchen/Kitchen Nightmares",
+            "asin": "amzn1.dv.gti.fcb7ec57-b10a-3892-43e6-4ee2f4896f4a",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s113367_lw_h10_ab._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "TNA Wrestling Channel",
+            "asin": "amzn1.dv.gti.db9404b9-13be-44e7-af80-9292aa19f28f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/tna._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Big 12 Studios",
+            "asin": "amzn1.dv.gti.935ecfc0-7e6f-44a6-a7cd-116d8c9f3a67",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/big_12_studios._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ONE Championship TV",
+            "asin": "amzn1.dv.gti.6e7ec0d0-2fd1-492a-9a7b-c62ca96f9f32",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/one_championship._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MAVTV Select",
+            "asin": "amzn1.dv.gti.d07c4309-bb43-40c3-ac65-7dfd4c979059",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mavtv_select._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Waypoint TV",
+            "asin": "amzn1.dv.gti.66f6116c-fa1f-4d3a-ab98-37444f6f9565",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Waypoint_ChannelLogo_Freevee_1920_1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Fox Sports",
+            "asin": "amzn1.dv.gti.78927483-9d8f-45a8-b6f6-561f0bb75f33",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/fox_sports_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PickleTV",
+            "asin": "amzn1.dv.gti.65ea30a7-d3fe-49d1-be94-ab61537a8d4b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/pickletv._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC Sports NOW",
+            "asin": "amzn1.dv.gti.dafd2cd1-1b62-4b7b-ae92-2fc9adb33ae0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc-sports-now-fclogo-72-dpi-1920-x-1080-16-9-channel-logo-horizontal-white-1_Jan_2025._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Real Madrid TV",
+            "asin": "amzn1.dv.gti.79990bdf-b118-40c9-8de5-e276d1fb370f",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/RMTV_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Champions League Goals",
+            "asin": "amzn1.dv.gti.c72c8f26-e066-4108-8ec3-aa2c0a888867",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/champion_leagues._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Classic Cinema",
+            "asin": "amzn1.dv.gti.d9c3b344-eb00-4879-9a63-bdec7af3d0ae",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_ClassicCinema_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "AMAZON MOVIES",
+            "asin": "amzn1.dv.gti.c8a398a0-b629-4d89-a7f5-7955c17e475d",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s134756_lw_h8_ab._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cinevault Classics",
+            "asin": "amzn1.dv.gti.8838794d-c959-4c65-a49d-0b652cee7bad",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cinevault_classics._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MGM Award-Winning Movies",
+            "asin": "amzn1.dv.gti.8d3e08e1-e603-4ca0-9643-0b5e7aeb6ab5",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MGMAwardWinningMovies_Freevee_ChannelArt_1920x1080_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FilmRise Free Movies",
+            "asin": "amzn1.dv.gti.82b7ec58-75b5-25ad-d2ff-8f7daa0b9331",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_FreeMovies_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FilmRise Action",
+            "asin": "amzn1.dv.gti.55bd4cad-6b3a-465a-bc45-b4496cffe7c5",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_Action_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "At the Movies",
+            "asin": "amzn1.dv.gti.1844bbfa-6565-4cbb-8360-7a492fb18298",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_AtTheMovies_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Hi-YAH!",
+            "asin": "amzn1.dv.gti.cdccf3c5-64d8-4a40-9034-cfb192ded196",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Hiyah._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Christmas Plus",
+            "asin": "amzn1.dv.gti.fbe20a99-3e58-4d49-b28d-190f30d6e6ff",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Christmas_Plus_White_Logo_3._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PureFlix TV",
+            "asin": "amzn1.dv.gti.1987eecd-f114-4436-a148-643e3f443165",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/pure_flix_tv._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CW Forever",
+            "asin": "amzn1.dv.gti.74affdff-b7c8-40a3-9c83-41410275f79d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cw_forever._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MrBeast",
+            "asin": "amzn1.dv.gti.b5fa6f72-a9bc-451a-869c-2ccd152e3c21",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/mr_beast._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ION Plus",
+            "asin": "amzn1.dv.gti.c6e74467-70ab-4f94-b151-7f91a6b5572a",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/IONPlus_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ALLBLK Gems",
+            "asin": "amzn1.dv.gti.c8a07101-1ca5-4564-b589-b00f2e59baa6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WEtv_ALLBLKGems_ChannelLogo_Horiz_White_FreeVee1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BounceXL",
+            "asin": "amzn1.dv.gti.9e3dbeaf-a333-49d2-bc71-085a73c68251",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/BounceXL_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Heartland",
+            "asin": "amzn1.dv.gti.c76e3126-f661-4aa2-a2e5-41988287eb51",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_Heartland_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Ebony TV by Lionsgate",
+            "asin": "amzn1.dv.gti.55c2a3e5-bf0d-45b0-983c-18cea9b15fac",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ebony_tv_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CW Gold",
+            "asin": "amzn1.dv.gti.1d9554fa-d4e1-41cb-9dcf-5a77290fdacc",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cw_fold._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MGM Presents: Westerns",
+            "asin": "amzn1.dv.gti.1c2c2ff1-9ecf-48bd-966f-a79a6cb1959f",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/mgm_presents_westerns_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Shades of Black",
+            "asin": "amzn1.dv.gti.8e2cf5a1-cd77-46c1-ae81-d80ade0b2d69",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/shades_of_black._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Chicago",
+            "asin": "amzn1.dv.gti.6c159da6-c0b1-4d4b-bdcd-bad624947a92",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_chicago._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC 5 Chicago News",
+            "asin": "amzn1.dv.gti.cc3051e8-4806-4db4-9a69-1d84283a2f06",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_chicago_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC7 Chicago",
+            "asin": "amzn1.dv.gti.6efaffdf-1166-4605-9ab6-4abe4532de1d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abcotv_wls_chicago._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 32 Chicago",
+            "asin": "amzn1.dv.gti.aff58d1a-c822-4fe5-b5d8-6ee46a863c14",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Fox_chicago._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC 10 Philadelphia News",
+            "asin": "amzn1.dv.gti.5dc9dcd5-9cff-4223-9049-d854854fc140",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_philadelphia_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Philadelphia",
+            "asin": "amzn1.dv.gti.a5c51878-ad8a-4655-a8bd-714cc84fee9e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_philly._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "6ABC Philadelphia",
+            "asin": "amzn1.dv.gti.b676e410-8f84-4943-bdaf-5a3420e41f65",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abcotv_wpvi_philadelphia._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "FOX 29 Philadelphia",
+            "asin": "amzn1.dv.gti.f974b8c9-79ad-4896-b0f3-947ee1893b97",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/fox_philly._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC 5 Dallas-Fort Worth News",
+            "asin": "amzn1.dv.gti.82817ada-62f4-42f1-9fb0-65bffa761d44",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_dallas_fort_worth_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Texas",
+            "asin": "amzn1.dv.gti.a9ad2ca0-90fe-4f39-b96f-a24f4cd1f609",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_texas._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Million Dollar Listing Vault",
+            "asin": "amzn1.dv.gti.2ec8ae55-d4e4-4b7f-b320-ac9aeb5f8420",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/million-dollar-listing-vault-fclogo-72-dpi-1920-x-1080-16-9-logo-for-freevee-1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Family Unscripted",
+            "asin": "amzn1.dv.gti.94e861cf-fece-4939-a38b-8a03db05b878",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_FamilyUnscripted_1920x1080_wht._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Reality Gone Wild",
+            "asin": "amzn1.dv.gti.6271d1cb-f98f-4b6b-8d66-f56dc3667787",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_RealityGoneWild_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Medical Incredible",
+            "asin": "amzn1.dv.gti.9d996dc3-bf7e-447a-a05f-399dce3f13c0",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_MedicalIncredible_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Love and Marriage",
+            "asin": "amzn1.dv.gti.fc432e3a-e2cc-407f-a670-93a191592fc3",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_LoveMarriage_1920x1080_wht._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Extreme Expeditions",
+            "asin": "amzn1.dv.gti.55d11bf0-a119-419f-9032-df15a767fae1",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_ExtremeExpeditions_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Unique Lives",
+            "asin": "amzn1.dv.gti.4ddce8ab-bee0-4e41-8c59-0955a33637de",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_UniqueLives_1920x1080_wht._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Matched Married Meet",
+            "asin": "amzn1.dv.gti.aeb6ef21-03cc-4552-be10-8d8fae4f9a31",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Matched_Married_Meet._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Ax Men",
+            "asin": "amzn1.dv.gti.99455b78-fa26-4800-a5c5-7778fc221f70",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Prime_Video_FAST_Channel_Ax_Men_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Paws and Claws",
+            "asin": "amzn1.dv.gti.46159869-fa19-40a9-b5ba-ed52ea6bbf6d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_PawsClaws_1920x1080_wht._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Let's Make a Deal",
+            "asin": "amzn1.dv.gti.c2f5c752-4ecc-4765-afc9-6db878a0363a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/lets_make_a_deal._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Deal or No Deal",
+            "asin": "amzn1.dv.gti.ed18a460-8eb3-451c-a9e2-cc220d23cb78",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Deal_or_No_Deal_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Fear Factor USA",
+            "asin": "amzn1.dv.gti.8a0f2e87-1611-4ce2-b21e-e2417ccece11",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/Freevee_FearFactor_US_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Impossible - Quiz Show",
+            "asin": "amzn1.dv.gti.c329c53f-410f-4c14-95db-16eaa1e6b2cb",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/impossible_quiz_show._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Family Feud Classic",
+            "asin": "amzn1.dv.gti.75d3f24b-5adf-4414-bcd6-6b063db07736",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Family_Feud_Classic_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Celebrity Name Game",
+            "asin": "amzn1.dv.gti.bde8cfde-16b1-4454-8358-1bbca0bf675b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/celebrity_name_gamer._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BBC Game Shows",
+            "asin": "amzn1.dv.gti.e7a1c459-0960-40ba-84ae-b2bf06b43b0b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/bbc_game_shows._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Play & Win",
+            "asin": "amzn1.dv.gti.b35c708d-8bdf-4742-9599-5c2356349391",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/play__win._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "How To",
+            "asin": "amzn1.dv.gti.7cfbf89e-db9c-4fec-8f0b-b56def44bf20",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HowTo_1920x1080_wht._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Modern Innovations by History",
+            "asin": "amzn1.dv.gti.44371211-285f-4a99-a048-a2345258e0e5",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Modern_Innovations_by_History_General_Market_Launch_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC11 North Carolina",
+            "asin": "amzn1.dv.gti.2539193d-f2d8-41b9-a340-0217f1215e17",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abcotv_wtvd_north_carolina._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS Nashville (WTVF)",
+            "asin": "amzn1.dv.gti.ce23bfe9-10bc-45da-a031-88a1f2096f3d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/WTVF._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS Salt Lake City (KUTV)",
+            "asin": "amzn1.dv.gti.3bb3465b-06cc-486b-adb6-d0172945331d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/logo_kutv_cbs2_c1920._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC Indianapolis (WRTV)",
+            "asin": "amzn1.dv.gti.6c5469c5-b14f-44f4-9020-0ef03b6ca91a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abc_indianapolis_wrtv._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News Pittsburgh",
+            "asin": "amzn1.dv.gti.0bd95565-fa04-4c14-b8bc-fcc0ab221e19",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_news_pitts._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC 7 San Diego News",
+            "asin": "amzn1.dv.gti.f6e0ccdc-41b8-4f5f-825d-7696fe52fe24",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_san_diego_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC Connecticut News",
+            "asin": "amzn1.dv.gti.ccbc8d0c-85b2-4e7e-bb51-dd3edd263c44",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_connecticut_news._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC30 Fresno",
+            "asin": "amzn1.dv.gti.c1be6773-d674-48c6-a9bd-1963a2c0404a",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/abcotv_kfsn_central_ca._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC Kansas City (KSHB)",
+            "asin": "amzn1.dv.gti.d842a997-6af8-41ff-bb53-29bfd10eaea9",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/KSHB._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC Cincinnati (WCPO)",
+            "asin": "amzn1.dv.gti.6b6eb513-90bd-457b-b531-e26e8812055f",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/wcpo_logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Modern Marvels",
+            "asin": "amzn1.dv.gti.d4e45369-2976-42ef-9799-6af69d90a2c2",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Modern_Marvels_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Mythbusters",
+            "asin": "amzn1.dv.gti.a007f4b3-2705-4b8b-923e-57294cc8259d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_MythBusters_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Space & Beyond",
+            "asin": "amzn1.dv.gti.31fd0a35-252f-4f0e-b882-9ec736dab843",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_SpaceBeyond_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Mysterious Worlds",
+            "asin": "amzn1.dv.gti.742df949-e5e6-4546-b2b5-f6531895c9a8",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_MysteriousWorlds_1920x1080_wht._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Real Disaster Channel",
+            "asin": "amzn1.dv.gti.d6a8a856-8480-4ff8-bc5c-45279f665c3c",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Real_Disaster._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Travel and Adventure",
+            "asin": "amzn1.dv.gti.d662c035-1b74-4908-9d1d-a893f5a92c7b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_TravelAdventure_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PBS Nature",
+            "asin": "amzn1.dv.gti.c3624350-a7b1-467c-ade7-d60799ad12df",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/PBS_Nature._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "BBC Earth",
+            "asin": "amzn1.dv.gti.1337cfa1-e35b-4037-b1b3-ce75eb1b6e79",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s135387_ld_h8_aa._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Nat Geo Sharks",
+            "asin": "amzn1.dv.gti.8631cd59-2aba-4a06-b333-5a2d1ef94af7",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Sharks_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PBS Documentaries",
+            "asin": "amzn1.dv.gti.585a82d3-6e98-4b4c-b7b2-56f67f57cdb6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/PBS_Documentaries_Logo_White_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Galanes",
+            "asin": "amzn1.dv.gti.ccb22594-ad43-4e13-ad90-f1a8d5efe028",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/galanes._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CN\u00d1 XPress",
+            "asin": "amzn1.dv.gti.ce86b174-bdc9-43f4-b631-ae446b317bfe",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CNN_Xpress_Logo_16-9_002_Feb_2025___padding_updated._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Telemundo Romance",
+            "asin": "amzn1.dv.gti.3838e8c0-90b1-44f1-83dc-61e59c809447",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/telemundo_romanc._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Aqui Y Ahora",
+            "asin": "amzn1.dv.gti.f8c2e641-0b7a-47cf-9419-831367add045",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/aqui_y_ahora._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cine De Oro",
+            "asin": "amzn1.dv.gti.6b310888-daee-40ac-95ad-0bd9d600e1ba",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cine_de_oro._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Crimen",
+            "asin": "amzn1.dv.gti.319e7295-eb5f-4f61-ab21-74774d9b5171",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Crimen_Logo_White_1920._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "AMC en Espa\u00f1ol",
+            "asin": "amzn1.dv.gti.9badc015-446c-4485-a736-53934e3a42b7",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/amc_en_espanol._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Sony One Competencias",
+            "asin": "amzn1.dv.gti.ebd39391-a87f-4615-bb72-9362e7655697",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/sony_one_com._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cine Retro",
+            "asin": "amzn1.dv.gti.ba19202c-07d4-4c8d-a231-8e3ad12bb0c1",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cine_retro._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Expedientes Sobrenaturales",
+            "asin": "amzn1.dv.gti.bda1d33f-94fd-4220-839c-16ce80c721d9",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Expedientes_Sobrenaturales_WBD._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Xtreme Outdoor",
+            "asin": "amzn1.dv.gti.24ba93e6-1ec9-2b3a-7a4f-e0e5abcce16e",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Xtreme_Outdoor_Presented_by_HISTORY_WHT_Logo._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Chaos Cam by A&E",
+            "asin": "amzn1.dv.gti.bdeee579-1625-41ab-bba7-22db3d81a50f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Chaos_Cam_logo_white_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Survive or Die",
+            "asin": "amzn1.dv.gti.e77dbd46-6f60-4496-9031-5389786b373e",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_SurviveOrDie_1920x1080_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "In the Garage",
+            "asin": "amzn1.dv.gti.fd2c7ef4-b686-4082-bb70-2092f15e29b7",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_InTheGarage_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Untold Stories of the ER",
+            "asin": "amzn1.dv.gti.5c4ac485-2f36-4299-867f-b711fe1ff0d3",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/untold_stories_of_the_er._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cheaters",
+            "asin": "amzn1.dv.gti.89ef25a1-6e6a-4f41-ac00-fb62f5f03988",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/FR_Cheaters_FireTV_Logo_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Meateater",
+            "asin": "amzn1.dv.gti.d1b87981-1e06-46cc-b077-6c03efb441c9",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/FreeVee_Meateater_Logo_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Dance Moms",
+            "asin": "amzn1.dv.gti.68d71d5e-961d-40cd-9cfd-6a5b67d04f32",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/dance_moms_by_lifetime._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Torque",
+            "asin": "amzn1.dv.gti.d012a2b3-2d73-472d-a817-2bfd9769b268",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/torque_by_history._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Supernanny",
+            "asin": "amzn1.dv.gti.051edf2b-5007-40ea-8dd3-fdc1f6ac6224",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Supernanny_01_Logo_White_16x9._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "RugbyPass TV",
+            "asin": "amzn1.dv.gti.71a020b5-3a70-496d-82cf-e5e4ed138de6",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/rugbypass._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Cook's Country",
+            "asin": "amzn1.dv.gti.07b9504f-4855-4d8b-a417-be79b80c9ac5",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CCYChannelLogo_1920x1080_Amazon_Prime_002._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "The Walking Dead Universe",
+            "asin": "amzn1.dv.gti.a4d5a2fa-f0fd-4e33-985b-9f521a066fd4",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/AMCN_TWDU_Freevee_logo-white_1920x1080_v011._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Live NOW by FOX",
+            "asin": "amzn1.dv.gti.64039d4c-c753-44fc-8f3f-6af8113e4685",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/s119219_ld_h8_ab._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS News 24/7",
+            "asin": "amzn1.dv.gti.10b8a104-4ecc-13a8-3511-9c2ec25b7438",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/CBS_News_247._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CNN Headlines",
+            "asin": "amzn1.dv.gti.cc739c48-23e4-4b79-a2cb-433b7c439579",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cnn_headlines_new._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "ABC News Live",
+            "asin": "amzn1.dv.gti.247631c8-b0d8-44e3-b165-c5bb8b55952b",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/ABC_News_Live._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "NBC News Now",
+            "asin": "amzn1.dv.gti.adae5e4f-e886-4b0f-bf55-c66fd3fc032b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/nbc_news_now._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Bloomberg TV+",
+            "asin": "amzn1.dv.gti.c17caba0-0b18-4d5d-a187-b159c1d51268",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/bloomberg_tv_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Noticias Univision 24/7",
+            "asin": "amzn1.dv.gti.2ffef6a1-02fe-4b6e-8384-a48b9eab8367",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/noticias_univision._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Vevo 2K",
+            "asin": "amzn1.dv.gti.fde7620b-f51f-4cc7-ae1e-de42f068796f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/vevo_2k._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE Celebrates",
+            "asin": "amzn1.dv.gti.16774954-6b9d-4d85-ac02-6ad9d946fcff",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/XITE_Celebrates_Jul_2024_1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "XITE Nuevo Latino",
+            "asin": "amzn1.dv.gti.91f5904b-8f9e-490e-952d-54e2f88f9732",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/pv-linear-operations/XITE_Nuevo_Latino._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Como Dice El Dicho",
+            "asin": "amzn1.dv.gti.fd8d0d54-2c76-4c69-971c-2cd2c7918b3f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/como_dice_el_dicho._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Rebelde",
+            "asin": "amzn1.dv.gti.4b53c46d-956b-4d6a-b734-48c7b4abef1d",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/rebelde._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "jajaja",
+            "asin": "amzn1.dv.gti.baa28929-1385-4805-ace9-20198d19f961",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/jajaja._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Las 3 Marias",
+            "asin": "amzn1.dv.gti.78a5d478-babe-4adb-a91c-8f18db640f6b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/las_3_marias._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Telemundo Acci\u00f3n",
+            "asin": "amzn1.dv.gti.1f96945e-bb22-4443-b7fc-8d1e37cd6f9f",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/telemundo_accion._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Grandes Parejas",
+            "asin": "amzn1.dv.gti.c8fb7600-73a6-4a69-9912-00454cafb43b",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/grandes_parejas._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Estrella TV",
+            "asin": "amzn1.dv.gti.1f10362e-a2e8-4147-a5a7-5a62d104000c",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Estrella_TV_US._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "T2",
+            "asin": "amzn1.dv.gti.92d90f40-b696-44a9-a92f-998619621db8",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/t2_us._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Swerve Combat",
+            "asin": "amzn1.dv.gti.78daceb3-8c24-4f2f-9c8b-4509e27801f7",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Swerve_Combat_Logo_Vertical_W_Mar_2025._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Poker Go",
+            "asin": "amzn1.dv.gti.0693dca7-388a-497f-9d37-f6840da4c9e3",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/PokerGo_White_1920x1080._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "SportsGrid",
+            "asin": "amzn1.dv.gti.9abe88e3-09ec-4cf3-b972-b71f138db681",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/sportsgrid._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "SPEED SPORT 1",
+            "asin": "amzn1.dv.gti.f4a8e27d-e247-4f12-b0cd-2ac524280ef2",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/SS1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "Stadium",
+            "asin": "amzn1.dv.gti.a13d0041-6f76-4802-b5d6-1c9aaef3f5bd",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/stadium._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "GLORY Kickboxing",
+            "asin": "amzn1.dv.gti.720af596-e9f5-4747-b9ba-91b34841eda6",
+            "logo": "https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/Carbon_Integration_Station_Image_Update/GLORY_LOGO_White_1920._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "PGA TOUR",
+            "asin": "amzn1.dv.gti.247477d6-7e68-4fe1-91cb-1881ff33e1dd",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/pga_tour._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "MSG SportsZone",
+            "asin": "amzn1.dv.gti.fcbc0f30-29e7-45a3-a677-a0ffa6081744",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/MSG_SportsZone_1920_1080_White1._SL170_FMpng_.png"
+        },
+        {
+            "channel_name": "CBS Sports Golazo Network",
+            "asin": "amzn1.dv.gti.a43b91c9-808a-44ac-a19b-780788b95b06",
+            "logo": "https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/cbs_sports_golazo_network._SL170_FMpng_.png"
+        }
+    ]
+}
