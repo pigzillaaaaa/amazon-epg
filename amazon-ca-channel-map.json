@@ -265,6 +265,102 @@
   ],
   "Amazon.CA.TSN5": [
     "TSN 5",
-    "amzn1.dv.gti.08f0e598-0da3-4e40-935c-ecf6dbc8b89e"
+    "amzn1.dv.gti.d382083b-f7f8-49e0-b1ba-f9ca0b853493"
+  ],
+  "Amazon.CA.AdultSwim": [
+    "Adult Swim",
+    "amzn1.dv.gti.d4b4f083-dcc7-19e6-dd4b-ae1e1736ff31"
+  ],
+  "Amazon.CA.HISTORY": [
+    "HISTORY",
+    "amzn1.dv.gti.88b4f084-314a-df96-d9be-2cc4b660cfa6"
+  ],
+  "Amazon.CA.FlavourNetwork": [
+    "Flavour Network",
+    "amzn1.dv.gti.1eb4f084-5ce4-03c8-3235-90ff2bbdab5c"
+  ],
+  "Amazon.CA.HomeNetwork": [
+    "Home Network",
+    "amzn1.dv.gti.d8b4f084-5ada-7fab-5a7b-e390a5155068"
+  ],
+  "Amazon.CA.GlobalBC": [
+    "Global BC",
+    "amzn1.dv.gti.5eb50197-4315-a48a-5001-da72b8436130"
+  ],
+  "Amazon.CA.WNetwork": [
+    "W Network",
+    "amzn1.dv.gti.b6b4f084-0e67-cb2c-9152-643f2c8f7bbe"
+  ],
+  "Amazon.CA.SHOWCASE": [
+    "SHOWCASE",
+    "amzn1.dv.gti.aeb4f084-9dbd-2b76-9885-c61ac326dbfa"
+  ],
+  "Amazon.CA.GlobalEdmonton": [
+    "Global Edmonton",
+    "amzn1.dv.gti.e4b4f084-ad7f-da71-afc6-8ab5c6e6ecd7"
+  ],
+  "Amazon.CA.GlobalToronto": [
+    "Global Toronto",
+    "amzn1.dv.gti.b4b4f087-fbe1-3501-c212-eb3b3a5c6058"
+  ],
+  "Amazon.CA.Slice": [
+    "Slice",
+    "amzn1.dv.gti.5eb4f084-c8ed-0169-274f-502a56d11aee"
+  ],
+  "Amazon.CA.NationalGeographic": [
+    "National Geographic",
+    "amzn1.dv.gti.4abbc442-f9eb-396e-3319-e62abdf6119d"
+  ],
+  "Amazon.CA.GlobalMaritimes": [
+    "Global Maritimes",
+    "amzn1.dv.gti.cab4f088-06e0-00be-4e0c-69773ba348d3"
+  ],
+  "Amazon.CA.GlobalCalgary": [
+    "Global Calgary",
+    "amzn1.dv.gti.12b4f085-fc20-8d4d-1db0-985ab7739ca3"
+  ],
+  "Amazon.CA.Treehouse": [
+    "Treehouse",
+    "amzn1.dv.gti.14b4f084-a82c-b54e-6640-55ae452c51d1"
+  ],
+  "Amazon.CA.LifetimeHDCanada": [
+    "Lifetime HD (Canada)",
+    "amzn1.dv.gti.ae608184-646f-493c-b2e4-740fceeab54e"
+  ],
+  "Amazon.CA.DisneyJunior": [
+    "Disney Junior",
+    "amzn1.dv.gti.7eba3d06-dd29-408f-8426-54a94eb7f84f"
+  ],
+  "Amazon.CA.YTV": [
+    "YTV",
+    "amzn1.dv.gti.eab4f084-630a-688d-5091-25493ab6f605"
+  ],
+  "Amazon.CA.CartoonNetwork": [
+    "Cartoon Network",
+    "amzn1.dv.gti.a8b4f084-65ff-f02b-5285-3b37365fc1d2"
+  ],
+  "Amazon.CA.DisneyChannel": [
+    "Disney Channel",
+    "amzn1.dv.gti.bfb00fb3-4163-49a5-acdf-79b01652d068"
+  ],
+  "Amazon.CA.DisneyXD": [
+    "Disney XD",
+    "amzn1.dv.gti.f9cf589b-8689-41b3-912d-deee997d9329"
+  ],
+  "Amazon.CA.FamilyChannelHD": [
+    "Family Channel HD",
+    "amzn1.dv.gti.a000f374-11e8-46a1-9d12-a42735f27840"
+  ],
+  "Amazon.CA.FamilyJrHD": [
+    "Family Jr HD",
+    "amzn1.dv.gti.3fa144ed-37b7-4580-8aeb-240c5b86d41b"
+  ],
+  "Amazon.CA.FamilyWildBrainTVHDEast": [
+    "Family WildBrainTV HD East",
+    "amzn1.dv.gti.29efcc4f-00c9-4606-9a43-226643726329"
+  ],
+  "Amazon.CA.TlmaginoHD": [
+    "T\u00e9l\u00e9magino HD",
+    "amzn1.dv.gti.f243de35-6ae3-4867-ba37-769ea9550339"
   ]
 }
