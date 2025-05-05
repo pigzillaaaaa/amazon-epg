@@ -201,7 +201,11 @@
   ],
   "Amazon.CA.SportsnetOntario": [
     "Sportsnet Ontario",
-    "amzn1.dv.gti.e436c9e1-7ca9-42e8-b6d8-0880ead19c86"
+    "amzn1.dv.gti.43537dd3-5679-4e01-a53c-c42224481fc2"
+  ],
+  "Amazon.CA.SportsnetWest": [
+    "Sportsnet West",
+    "amzn1.dv.gti.e40efeeb-a3e9-4e4b-9f10-fa444eab5920"
   ],
   "Amazon.CA.SportsnetEast": [
     "Sportsnet East",
@@ -218,10 +222,6 @@
   "Amazon.CA.SportsnetPacific": [
     "Sportsnet Pacific",
     "amzn1.dv.gti.f8c05705-bd51-495d-acbf-afa0716b8b33"
-  ],
-  "Amazon.CA.SportsnetWest": [
-    "Sportsnet West",
-    "amzn1.dv.gti.0009a0a6-ae3c-417b-a28a-ee3086f46736"
   ],
   "Amazon.CA.STARZ1": [
     "STARZ1",
@@ -257,15 +257,15 @@
   ],
   "Amazon.CA.TSN3": [
     "TSN 3",
-    "amzn1.dv.gti.5349f689-2614-4b59-b73c-c764ef5310fe"
+    "amzn1.dv.gti.7bed2502-02ed-4066-9d2a-1ec4e88dce2c"
   ],
   "Amazon.CA.TSN4": [
     "TSN 4",
-    "amzn1.dv.gti.3a6ab37b-a317-4585-8345-655a9fef3a8d"
+    "amzn1.dv.gti.1ca4d5c0-7cd1-458e-bcbc-5bdf6775f59b"
   ],
   "Amazon.CA.TSN5": [
     "TSN 5",
-    "amzn1.dv.gti.08f0e598-0da3-4e40-935c-ecf6dbc8b89e"
+    "amzn1.dv.gti.d382083b-f7f8-49e0-b1ba-f9ca0b853493"
   ],
   "Amazon.CA.AdultSwim": [
     "Adult Swim",
