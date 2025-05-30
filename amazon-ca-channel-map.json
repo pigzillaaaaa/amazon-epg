@@ -185,19 +185,19 @@
   ],
   "Amazon.CA.RDS": [
     "RDS",
-    "amzn1.dv.gti.217eec0c-9883-4f5d-adf4-4c6488811752"
+    "amzn1.dv.gti.9bd5a432-ecac-492f-b760-44154fc0b1f9"
   ],
   "Amazon.CA.RDSInfoSports": [
     "RDS Info Sports",
-    "amzn1.dv.gti.6ab25160-7b12-4bad-b5c5-f5c5134f345c"
+    "amzn1.dv.gti.5115a2c9-3614-4ad1-ba52-c6b5c4069233"
   ],
   "Amazon.CA.RDS2": [
     "RDS 2",
-    "amzn1.dv.gti.115983d8-b11e-4597-b42e-aeb1aedefb2e"
+    "amzn1.dv.gti.31baaf12-0c9a-4064-af93-9e151ff67d7e"
   ],
   "Amazon.CA.SportsnetOntario": [
     "Sportsnet Ontario",
-    "amzn1.dv.gti.43537dd3-5679-4e01-a53c-c42224481fc2"
+    "amzn1.dv.gti.e436c9e1-7ca9-42e8-b6d8-0880ead19c86"
   ],
   "Amazon.CA.SportsnetEast": [
     "Sportsnet East",
@@ -207,13 +207,13 @@
     "Sportsnet ONE",
     "amzn1.dv.gti.d31c3d70-1002-4d3d-aacf-0074979c5f44"
   ],
-  "Amazon.CA.SportsnetPacific": [
-    "Sportsnet Pacific",
-    "amzn1.dv.gti.3717339d-6507-49e0-9e31-fd7c0588fd1d"
-  ],
   "Amazon.CA.Sportsnet360": [
     "Sportsnet 360",
     "amzn1.dv.gti.1d224e1a-97be-402b-b5fd-6d9a06839b58"
+  ],
+  "Amazon.CA.SportsnetPacific": [
+    "Sportsnet Pacific",
+    "amzn1.dv.gti.f8c05705-bd51-495d-acbf-afa0716b8b33"
   ],
   "Amazon.CA.SportsnetWest": [
     "Sportsnet West",
@@ -249,7 +249,7 @@
   ],
   "Amazon.CA.TSN2": [
     "TSN 2",
-    "amzn1.dv.gti.ca6f7ded-1f41-45a3-942c-3a1ee0d895fc"
+    "amzn1.dv.gti.c9e60f6b-0eae-4af2-b709-3de907472de4"
   ],
   "Amazon.CA.TSN3": [
     "TSN 3",
@@ -257,11 +257,11 @@
   ],
   "Amazon.CA.TSN4": [
     "TSN 4",
-    "amzn1.dv.gti.1ca4d5c0-7cd1-458e-bcbc-5bdf6775f59b"
+    "amzn1.dv.gti.3a6ab37b-a317-4585-8345-655a9fef3a8d"
   ],
   "Amazon.CA.TSN5": [
     "TSN 5",
-    "amzn1.dv.gti.d382083b-f7f8-49e0-b1ba-f9ca0b853493"
+    "amzn1.dv.gti.08f0e598-0da3-4e40-935c-ecf6dbc8b89e"
   ],
   "Amazon.CA.AdultSwim": [
     "Adult Swim",
